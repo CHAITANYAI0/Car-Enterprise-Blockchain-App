@@ -1,0 +1,501 @@
+id,account_id,first_name,last_name,email,age,loyalty_program,city,state,country,zip,latitude,longitude,gender,created_at,yearly_amount_spent
+16002,215258112,LYNN,ONEAL,lynn_oneal21@yahooo.com,74,0,Nenthall,England,GB,CA9,54.798,-2.4146,Male,"Wed, 24 Jan 2018 05:30:13 -0800",302.8071763
+7674,215258112,LYNN,HOLLAND,lholland@yahoo.com,12,0,Nenthall,England,GB,CA9,54.798,-2.4146,Male,"Wed, 24 Jan 2018 05:30:13 -0800",302.8071763
+31628,215258112,LYNN,POWELL,lynn_powell23@wp.com,69,0,Nenthall,England,GB,CA9,54.798,-2.4146,Male,"Wed, 24 Jan 2018 05:30:13 -0800",302.8071763
+38546,611061762,CANDACE,SANCHEZ,candace_sanchez12@awssws.com,93,0,Nenthall,England,GB,CA9,54.798,-2.4146,Female,"Wed, 03 Oct 2018 02:54:03 -0700",443.0495525
+22920,611061762,CANDACE,SMOTHERS,candace_smothers9@wp.com,13,0,Nenthall,England,GB,CA9,54.798,-2.4146,Female,"Wed, 03 Oct 2018 02:54:03 -0700",443.0495525
+14202,611061762,CANDACE,BURKHOLDER,cburkholder@yahoo.com,14,0,Nenthall,England,GB,CA9,54.798,-2.4146,Female,"Wed, 03 Oct 2018 02:54:03 -0700",443.0495525
+11468,247928584,JOHN,NICHOLLS,johnnicholls@gmail.com,54,0,Nenthall,England,GB,CA9,54.798,-2.4146,Male,"Mon, 02 Jul 2018 22:58:44 -0700",729.768094
+16012,247928584,JOHN,GOLDEN,john_golden4@gmail.com,63,0,Nenthall,England,GB,CA9,54.798,-2.4146,Male,"Mon, 02 Jul 2018 22:58:44 -0700",729.768094
+31638,247928584,JOHN,KOLLAR,john_kollar6@zzzuuuppp.com,88,0,Nenthall,England,GB,CA9,54.798,-2.4146,Male,"Mon, 02 Jul 2018 22:58:44 -0700",729.768094
+1751,604128264,SHIRLEY,FRANK,shirleyfrank@gmail.com,51,0,Nenthall,England,GB,CA9,54.798,-2.4146,Female,"Sun, 16 Apr 2017 09:28:26 -0700",683.4501303
+38537,604128264,SHIRLEY,MILLER,shirley_miller10@microsoft.com,24,1,Nenthall,England,GB,CA9,54.798,-2.4146,Female,"Sun, 16 Apr 2017 09:28:26 -0700",683.4501303
+22911,604128264,SHIRLEY,CODY,shirley_cody15@yahooo.com,23,1,Nenthall,England,GB,CA9,54.798,-2.4146,Female,"Sun, 16 Apr 2017 09:28:26 -0700",683.4501303
+22918,673806873,LINDA,BRUCE,linda_bruce19@zzzuuuppp.com,23,1,Nenthall,England,GB,CA9,54.798,-2.4146,Female,"Fri, 17 Mar 2017 23:14:28 -0700",730.8293981
+1267,673806873,LINDA,DODSON,lindadodson@aol.com,12,0,Nenthall,England,GB,CA9,54.798,-2.4146,Female,"Fri, 17 Mar 2017 23:14:28 -0700",730.8293981
+38544,673806873,LINDA,CHIVERS,linda_chivers5@gmail.com,89,0,Nenthall,England,GB,CA9,54.798,-2.4146,Female,"Fri, 17 Mar 2017 23:14:28 -0700",730.8293981
+16005,616631327,STEPHEN,MCLEOD,stephen_mcleod12@gmail.com,13,1,Nenthall,England,GB,CA9,54.798,-2.4146,Male,"Sun, 05 Nov 2017 18:19:57 -0800",693.2077698
+5592,616631327,STEPHEN,PAULSON,stephenpaulson@yahoo.com,34,0,Nenthall,England,GB,CA9,54.798,-2.4146,Male,"Sun, 05 Nov 2017 18:19:57 -0800",693.2077698
+31631,616631327,STEPHEN,HARRISON,stephen_harrison10@gmail.com,88,1,Nenthall,England,GB,CA9,54.798,-2.4146,Male,"Sun, 05 Nov 2017 18:19:57 -0800",693.2077698
+3639,210077732,THERESA,MELTON,theresamelton@yahoo.com,57,0,Nenthall,England,GB,CA9,54.798,-2.4146,Female,"Sat, 05 Aug 2017 17:32:54 -0700",745.0927535
+22909,210077732,THERESA,LERCH,theresa_lerch4@zzzuuuppp.com,27,0,Nenthall,England,GB,CA9,54.798,-2.4146,Female,"Sat, 05 Aug 2017 17:32:54 -0700",745.0927535
+38535,210077732,THERESA,SMITH,theresa_smith5@yahooo.com,32,0,Nenthall,England,GB,CA9,54.798,-2.4146,Female,"Sat, 05 Aug 2017 17:32:54 -0700",745.0927535
+16004,877462830,NAPOLEON,JENKINS,napoleon_jenkins15@gmail.com,97,1,Nenthall,England,GB,CA9,54.798,-2.4146,Male,"Sat, 17 Nov 2018 15:17:41 -0800",723.9778144
+31630,877462830,NAPOLEON,SARDINA,napoleon_sardina11@microsoft.com,52,0,Nenthall,England,GB,CA9,54.798,-2.4146,Male,"Sat, 17 Nov 2018 15:17:41 -0800",723.9778144
+15766,877462830,NAPOLEON,NELSON,nnelson@gmail.com,48,0,Nenthall,England,GB,CA9,54.798,-2.4146,Male,"Sat, 17 Nov 2018 15:17:41 -0800",723.9778144
+8631,162445615,KATHLEEN,SIMS,ksims@hotmail.com,39,0,Nenthall,England,GB,CA9,54.798,-2.4146,Female,"Fri, 02 Mar 2018 11:07:51 -0800",279.421438
+38545,162445615,KATHLEEN,KIRK,kathleen_kirk5@gmail.com,29,1,Nenthall,England,GB,CA9,54.798,-2.4146,Female,"Fri, 02 Mar 2018 11:07:51 -0800",279.421438
+22919,162445615,KATHLEEN,MEYER,kathleen_meyer4@gmail.com,85,1,Nenthall,England,GB,CA9,54.798,-2.4146,Female,"Fri, 02 Mar 2018 11:07:51 -0800",279.421438
+6185,805738037,PEDRO,BLOCKER,pblocker@yahoo.com,94,0,Nenthall,England,GB,CA9,54.798,-2.4146,Male,"Sun, 26 Nov 2017 21:07:50 -0800",548.4799514
+16010,805738037,PEDRO,NEEL,pedro_neel14@awssws.com,13,0,Nenthall,England,GB,CA9,54.798,-2.4146,Male,"Sun, 26 Nov 2017 21:07:50 -0800",548.4799514
+31636,805738037,PEDRO,ANDRUS,pedro_andrus18@zzzuuuppp.com,95,0,Nenthall,England,GB,CA9,54.798,-2.4146,Male,"Sun, 26 Nov 2017 21:07:50 -0800",548.4799514
+12746,750589249,LACY,KELLEY,lacykelley@yahoo.com,42,0,Nenthall,England,GB,CA9,54.798,-2.4146,Female,"Mon, 20 Aug 2018 04:51:11 -0700",262.4715627
+22906,750589249,LACY,ADAMS,lacy_adams6@microsoft.com,64,1,Nenthall,England,GB,CA9,54.798,-2.4146,Female,"Mon, 20 Aug 2018 04:51:11 -0700",262.4715627
+38532,750589249,LACY,WORTMAN,lacy_wortman18@zzzuuuppp.com,94,1,Nenthall,England,GB,CA9,54.798,-2.4146,Female,"Mon, 20 Aug 2018 04:51:11 -0700",262.4715627
+12245,861389889,OLGA,BOUCHER,oboucher@yahoo.com,38,0,Nenthall,England,GB,CA9,54.798,-2.4146,Female,"Thu, 02 Aug 2018 23:23:56 -0700",335.6779609
+22912,861389889,OLGA,SOUTHERLAND,olga_southerland17@gmail.com,24,1,Nenthall,England,GB,CA9,54.798,-2.4146,Female,"Thu, 02 Aug 2018 23:23:56 -0700",335.6779609
+38538,861389889,OLGA,SHAH,olga_shah10@microsoft.com,95,1,Nenthall,England,GB,CA9,54.798,-2.4146,Female,"Thu, 02 Aug 2018 23:23:56 -0700",335.6779609
+16008,802253387,ANTHONY,SEGUNDO,anthony_segundo20@wp.com,61,0,Nenthall,England,GB,CA9,54.798,-2.4146,Male,"Fri, 28 Apr 2017 05:43:05 -0700",564.4966863
+1976,802253387,ANTHONY,PINKHAM,anthonypinkham@yahoo.com,73,0,Nenthall,England,GB,CA9,54.798,-2.4146,Male,"Fri, 28 Apr 2017 05:43:05 -0700",564.4966863
+31634,802253387,ANTHONY,FULLER,anthony_fuller14@gmail.com,78,1,Nenthall,England,GB,CA9,54.798,-2.4146,Male,"Fri, 28 Apr 2017 05:43:05 -0700",564.4966863
+31632,411492697,TERRY,MCKEE,terry_mckee17@microsoft.com,58,0,Nenthall,England,GB,CA9,54.798,-2.4146,Male,"Wed, 13 Dec 2017 01:28:42 -0800",485.236124
+6648,411492697,TERRY,LAI,tlai@gmail.com,59,0,Nenthall,England,GB,CA9,54.798,-2.4146,Male,"Wed, 13 Dec 2017 01:28:42 -0800",485.236124
+16006,411492697,TERRY,MUNCY,terry_muncy3@microsoft.com,64,1,Nenthall,England,GB,CA9,54.798,-2.4146,Male,"Wed, 13 Dec 2017 01:28:42 -0800",485.236124
+11133,144137830,JESSE,SHUMATE,jesseshumate@gmail.com,18,0,Nenthall,England,GB,CA9,54.798,-2.4146,Male,"Mon, 18 Jun 2018 18:28:59 -0700",618.8459704
+31629,144137830,JESSE,WRIGHT,jesse_wright6@awssws.com,23,0,Nenthall,England,GB,CA9,54.798,-2.4146,Male,"Mon, 18 Jun 2018 18:28:59 -0700",618.8459704
+16003,144137830,JESSE,HAYWOOD,jesse_haywood7@zzzuuuppp.com,22,0,Nenthall,England,GB,CA9,54.798,-2.4146,Male,"Mon, 18 Jun 2018 18:28:59 -0700",618.8459704
+22916,482262374,BETTY,SCANNELL,betty_scannell20@zzzuuuppp.com,30,1,Nenthall,England,GB,CA9,54.798,-2.4146,Female,"Mon, 26 Feb 2018 04:35:25 -0800",382.9254163
+8525,482262374,BETTY,HINSON,betty.hinson@aol.com,18,0,Nenthall,England,GB,CA9,54.798,-2.4146,Female,"Mon, 26 Feb 2018 04:35:25 -0800",382.9254163
+38542,482262374,BETTY,MICHEL,betty_michel19@wp.com,69,0,Nenthall,England,GB,CA9,54.798,-2.4146,Female,"Mon, 26 Feb 2018 04:35:25 -0800",382.9254163
+6467,581525364,SARAH,SINGLETON,sarahsingleton@gmail.com,54,0,Nenthall,England,GB,CA9,54.798,-2.4146,Female,"Thu, 07 Dec 2017 10:30:46 -0800",686.5576148
+38534,581525364,SARAH,ROBINSON,sarah_robinson16@awssws.com,18,0,Nenthall,England,GB,CA9,54.798,-2.4146,Female,"Thu, 07 Dec 2017 10:30:46 -0800",686.5576148
+22908,581525364,SARAH,VAUGH,sarah_vaugh10@yahooo.com,46,0,Nenthall,England,GB,CA9,54.798,-2.4146,Female,"Thu, 07 Dec 2017 10:30:46 -0800",686.5576148
+7732,367056757,DAVID,FOSTER,davidfoster@yahoo.com,16,0,Nenthall,England,GB,CA9,54.798,-2.4146,Male,"Sun, 28 Jan 2018 15:07:46 -0800",727.5560555
+31633,367056757,DAVID,AKERS,david_akers9@microsoft.com,54,1,Nenthall,England,GB,CA9,54.798,-2.4146,Male,"Sun, 28 Jan 2018 15:07:46 -0800",727.5560555
+16007,367056757,DAVID,HAMRICK,david_hamrick22@awssws.com,53,1,Nenthall,England,GB,CA9,54.798,-2.4146,Male,"Sun, 28 Jan 2018 15:07:46 -0800",727.5560555
+13501,924802938,MILDRED,CAPRIO,mildredcaprio@yahoo.com,53,0,Nenthall,England,GB,CA9,54.798,-2.4146,Female,"Wed, 12 Sep 2018 04:11:37 -0700",553.6947136
+38547,924802938,MILDRED,WILLIAMS,mildred_williams2@zzzuuuppp.com,72,0,Nenthall,England,GB,CA9,54.798,-2.4146,Female,"Wed, 12 Sep 2018 04:11:37 -0700",553.6947136
+22921,924802938,MILDRED,KILBURN,mildred_kilburn2@zzzuuuppp.com,82,1,Nenthall,England,GB,CA9,54.798,-2.4146,Female,"Wed, 12 Sep 2018 04:11:37 -0700",553.6947136
+8655,287017088,LEON,HERNANDEZ,leonhernandez@gmail.com,14,0,Nenthall,England,GB,CA9,54.798,-2.4146,Male,"Fri, 02 Mar 2018 15:13:42 -0800",443.4418601
+31635,287017088,LEON,NOWELL,leon_nowell22@microsoft.com,14,0,Nenthall,England,GB,CA9,54.798,-2.4146,Male,"Fri, 02 Mar 2018 15:13:42 -0800",443.4418601
+16009,287017088,LEON,FOLEY,leon_foley10@microsoft.com,67,0,Nenthall,England,GB,CA9,54.798,-2.4146,Male,"Fri, 02 Mar 2018 15:13:42 -0800",443.4418601
+31637,750226827,DAMION,HARDAWAY,damion_hardaway16@awssws.com,84,1,Nenthall,England,GB,CA9,54.798,-2.4146,Male,"Sun, 07 Jan 2018 02:18:49 -0800",669.0101706
+16011,750226827,DAMION,LOVELL,damion_lovell21@microsoft.com,33,0,Nenthall,England,GB,CA9,54.798,-2.4146,Male,"Sun, 07 Jan 2018 02:18:49 -0800",669.0101706
+7287,750226827,DAMION,WILLIAMS,damionwilliams@gmail.com,37,0,Nenthall,England,GB,CA9,54.798,-2.4146,Male,"Sun, 07 Jan 2018 02:18:49 -0800",669.0101706
+38540,146682262,MILDRED,CROWLEY,mildred_crowley4@wp.com,21,1,Nenthall,England,GB,CA9,54.798,-2.4146,Female,"Mon, 09 Jan 2017 12:31:55 -0800",321.6322263
+132,146682262,MILDRED,BROWN,mildredbrown@gmail.com,47,0,Nenthall,England,GB,CA9,54.798,-2.4146,Female,"Mon, 09 Jan 2017 12:31:55 -0800",321.6322263
+22914,146682262,MILDRED,DORE,mildred_dore19@awssws.com,87,0,Nenthall,England,GB,CA9,54.798,-2.4146,Female,"Mon, 09 Jan 2017 12:31:55 -0800",321.6322263
+22915,478530202,PATSY,RAMIREZ,patsy_ramirez7@wp.com,77,0,Nenthall,England,GB,CA9,54.798,-2.4146,Female,"Sat, 17 Nov 2018 23:51:23 -0800",448.9903969
+15772,478530202,PATSY,BROOKS,patsybrooks@gmail.com,14,0,Nenthall,England,GB,CA9,54.798,-2.4146,Female,"Sat, 17 Nov 2018 23:51:23 -0800",448.9903969
+38541,478530202,PATSY,STEINKE,patsy_steinke5@zzzuuuppp.com,29,1,Nenthall,England,GB,CA9,54.798,-2.4146,Female,"Sat, 17 Nov 2018 23:51:23 -0800",448.9903969
+31639,181458079,BRIAN,BERRIOS,brian_berrios11@microsoft.com,95,0,Nenthall,England,GB,CA9,54.798,-2.4146,Male,"Tue, 04 Apr 2017 22:27:46 -0700",750.1972935
+16013,181458079,BRIAN,HUBBARD,brian_hubbard18@microsoft.com,94,1,Nenthall,England,GB,CA9,54.798,-2.4146,Male,"Tue, 04 Apr 2017 22:27:46 -0700",750.1972935
+1550,181458079,BRIAN,STUART,brianstuart@yahoo.com,29,0,Nenthall,England,GB,CA9,54.798,-2.4146,Male,"Tue, 04 Apr 2017 22:27:46 -0700",750.1972935
+14451,862054312,SHERRY,MCCORD,sherrymccord@gmail.com,48,0,Nenthall,England,GB,CA9,54.798,-2.4146,Female,"Thu, 11 Oct 2018 18:29:55 -0700",712.7916014
+22907,862054312,SHERRY,NORTH,sherry_north16@zzzuuuppp.com,96,1,Nenthall,England,GB,CA9,54.798,-2.4146,Female,"Thu, 11 Oct 2018 18:29:55 -0700",712.7916014
+38533,862054312,SHERRY,JIMENEZ,sherry_jimenez1@zzzuuuppp.com,65,0,Nenthall,England,GB,CA9,54.798,-2.4146,Female,"Thu, 11 Oct 2018 18:29:55 -0700",712.7916014
+13753,385890736,EDWINA,KAY,edwinakay@gmail.com,71,0,Nenthall,England,GB,CA9,54.798,-2.4146,Female,"Wed, 19 Sep 2018 10:22:17 -0700",693.1005425
+22924,385890736,EDWINA,ISOM,edwina_isom10@awssws.com,72,0,Nenthall,England,GB,CA9,54.798,-2.4146,Female,"Wed, 19 Sep 2018 10:22:17 -0700",693.1005425
+38550,385890736,EDWINA,MONTGOMERY,edwina_montgomery18@awssws.com,36,1,Nenthall,England,GB,CA9,54.798,-2.4146,Female,"Wed, 19 Sep 2018 10:22:17 -0700",693.1005425
+15084,354822839,LYNN,CHILSON,lynnchilson@gmail.com,14,0,Nenthall,England,GB,CA9,54.798,-2.4146,Female,"Tue, 30 Oct 2018 02:35:03 -0700",702.3230411
+22917,354822839,LYNN,JAMES,lynn_james15@awssws.com,98,0,Nenthall,England,GB,CA9,54.798,-2.4146,Female,"Tue, 30 Oct 2018 02:35:03 -0700",702.3230411
+38543,354822839,LYNN,LOPEZ,lynn_lopez19@microsoft.com,16,0,Nenthall,England,GB,CA9,54.798,-2.4146,Female,"Tue, 30 Oct 2018 02:35:03 -0700",702.3230411
+16001,140051386,JOHN,ALBRECHT,john_albrecht10@zzzuuuppp.com,16,0,Nenthall,England,GB,CA9,54.798,-2.4146,Male,"Wed, 30 May 2018 20:57:49 -0700",649.7470908
+31627,140051386,JOHN,WILLIAMS,john_williams21@microsoft.com,40,1,Nenthall,England,GB,CA9,54.798,-2.4146,Male,"Wed, 30 May 2018 20:57:49 -0700",649.7470908
+10709,140051386,JOHN,TREVINO,jtrevino@hotmail.com,22,0,Nenthall,England,GB,CA9,54.798,-2.4146,Male,"Wed, 30 May 2018 20:57:49 -0700",649.7470908
+22923,280482000,BOBBIE,PACKER,bobbie_packer15@wp.com,70,1,Nenthall,England,GB,CA9,54.798,-2.4146,Female,"Fri, 11 May 2018 09:14:03 -0700",613.620811
+38549,280482000,BOBBIE,WESTON,bobbie_weston15@zzzuuuppp.com,66,1,Nenthall,England,GB,CA9,54.798,-2.4146,Female,"Fri, 11 May 2018 09:14:03 -0700",613.620811
+10258,280482000,BOBBIE,BRITT,bobbiebritt@gmail.com,52,0,Nenthall,England,GB,CA9,54.798,-2.4146,Female,"Fri, 11 May 2018 09:14:03 -0700",613.620811
+22913,220221672,ERIN,BAILEY,erin_bailey1@wp.com,93,0,Nenthall,England,GB,CA9,54.798,-2.4146,Female,"Wed, 04 Jan 2017 23:57:05 -0800",309.1322886
+62,220221672,ERIN,CAMPBELL,ecampbell@gmail.com,21,0,Nenthall,England,GB,CA9,54.798,-2.4146,Female,"Wed, 04 Jan 2017 23:57:05 -0800",309.1322886
+38539,220221672,ERIN,DAWSON,erin_dawson1@microsoft.com,25,1,Nenthall,England,GB,CA9,54.798,-2.4146,Female,"Wed, 04 Jan 2017 23:57:05 -0800",309.1322886
+22922,171522549,ELAINE,PHILLIPS,elaine_phillips4@wp.com,14,1,Nenthall,England,GB,CA9,54.798,-2.4146,Female,"Mon, 13 Nov 2017 13:12:09 -0800",750.8472033
+5792,171522549,ELAINE,BUCKNER,elainebuckner@gmail.com,37,0,Nenthall,England,GB,CA9,54.798,-2.4146,Female,"Mon, 13 Nov 2017 13:12:09 -0800",750.8472033
+38548,171522549,ELAINE,CAIN,elaine_cain4@yahooo.com,91,0,Nenthall,England,GB,CA9,54.798,-2.4146,Female,"Mon, 13 Nov 2017 13:12:09 -0800",750.8472033
+38536,834644474,STEPHANIE,WALKER,stephanie_walker8@awssws.com,18,1,Nenthall,England,GB,CA9,54.798,-2.4146,Female,"Fri, 07 Jul 2017 11:51:17 -0700",646.9857955
+3146,834644474,STEPHANIE,BELLO,stephaniebello@yahoo.com,14,0,Nenthall,England,GB,CA9,54.798,-2.4146,Female,"Fri, 07 Jul 2017 11:51:17 -0700",646.9857955
+22910,834644474,STEPHANIE,REEVES,stephanie_reeves8@wp.com,40,1,Nenthall,England,GB,CA9,54.798,-2.4146,Female,"Fri, 07 Jul 2017 11:51:17 -0700",646.9857955
+22928,779515648,EFFIE,HOLMES,effie_holmes16@gmail.com,36,0,New Barn,England,GB,DA3,51.3838,0.2942,Female,"Mon, 30 Jul 2018 18:42:16 -0700",642.8505794
+38554,779515648,EFFIE,THOMPSON,effie_thompson6@wp.com,94,1,New Barn,England,GB,DA3,51.3838,0.2942,Female,"Mon, 30 Jul 2018 18:42:16 -0700",642.8505794
+12172,779515648,EFFIE,LEE,effie.lee@gmail.com,14,0,New Barn,England,GB,DA3,51.3838,0.2942,Female,"Mon, 30 Jul 2018 18:42:16 -0700",642.8505794
+5445,710468100,CASEY,RHODES,casey.rhodes@gmail.com,53,0,New Barn,England,GB,DA3,51.3838,0.2942,Male,"Mon, 30 Oct 2017 22:13:24 -0700",405.8426982
+31654,710468100,CASEY,KIRK,casey_kirk17@yahooo.com,57,0,New Barn,England,GB,DA3,51.3838,0.2942,Male,"Mon, 30 Oct 2017 22:13:24 -0700",405.8426982
+16028,710468100,CASEY,GARCIA,casey_garcia8@yahooo.com,46,1,New Barn,England,GB,DA3,51.3838,0.2942,Male,"Mon, 30 Oct 2017 22:13:24 -0700",405.8426982
+22927,642444806,VICTORIA,HAMMOND,victoria_hammond16@microsoft.com,70,0,New Barn,England,GB,DA3,51.3838,0.2942,Female,"Wed, 12 Apr 2017 20:03:00 -0700",724.4242802
+38553,642444806,VICTORIA,FORTUNA,victoria_fortuna8@zzzuuuppp.com,19,1,New Barn,England,GB,DA3,51.3838,0.2942,Female,"Wed, 12 Apr 2017 20:03:00 -0700",724.4242802
+1693,642444806,VICTORIA,PULLIAM,victoriapulliam@yahoo.com,36,0,New Barn,England,GB,DA3,51.3838,0.2942,Female,"Wed, 12 Apr 2017 20:03:00 -0700",724.4242802
+16017,910021640,CHARLES,ERVIN,charles_ervin16@yahooo.com,68,1,New Barn,England,GB,DA3,51.3838,0.2942,Male,"Thu, 07 Dec 2017 23:00:33 -0800",262.7690117
+31643,910021640,CHARLES,POPPE,charles_poppe21@wp.com,62,0,New Barn,England,GB,DA3,51.3838,0.2942,Male,"Thu, 07 Dec 2017 23:00:33 -0800",262.7690117
+6459,910021640,CHARLES,FINKLEA,cfinklea@gmail.com,49,0,New Barn,England,GB,DA3,51.3838,0.2942,Male,"Thu, 07 Dec 2017 23:00:33 -0800",262.7690117
+16015,225086235,KENNETH,BOND,kenneth_bond13@microsoft.com,89,1,New Barn,England,GB,DA3,51.3838,0.2942,Male,"Fri, 08 Jun 2018 03:00:23 -0700",391.4624149
+10899,225086235,KENNETH,SIMMONS,kennethsimmons@yahoo.com,66,0,New Barn,England,GB,DA3,51.3838,0.2942,Male,"Fri, 08 Jun 2018 03:00:23 -0700",391.4624149
+31641,225086235,KENNETH,BENNER,kenneth_benner15@awssws.com,76,1,New Barn,England,GB,DA3,51.3838,0.2942,Male,"Fri, 08 Jun 2018 03:00:23 -0700",391.4624149
+16027,191969053,ROGER,WHITT,roger_whitt6@zzzuuuppp.com,55,1,New Barn,England,GB,DA3,51.3838,0.2942,Male,"Fri, 30 Jun 2017 16:35:16 -0700",467.4018714
+3005,191969053,ROGER,DEPALMA,rdepalma@gmail.com,14,0,New Barn,England,GB,DA3,51.3838,0.2942,Male,"Fri, 30 Jun 2017 16:35:16 -0700",467.4018714
+31653,191969053,ROGER,FERNANDEZ,roger_fernandez10@gmail.com,51,1,New Barn,England,GB,DA3,51.3838,0.2942,Male,"Fri, 30 Jun 2017 16:35:16 -0700",467.4018714
+31650,125744678,FRANKIE,ZIMMER,frankie_zimmer23@gmail.com,81,1,New Barn,England,GB,DA3,51.3838,0.2942,Male,"Wed, 09 May 2018 05:50:43 -0700",620.2365562
+16024,125744678,FRANKIE,CARTER,frankie_carter16@microsoft.com,48,0,New Barn,England,GB,DA3,51.3838,0.2942,Male,"Wed, 09 May 2018 05:50:43 -0700",620.2365562
+10218,125744678,FRANKIE,HOPKINS,frankiehopkins@gmail.com,57,0,New Barn,England,GB,DA3,51.3838,0.2942,Male,"Wed, 09 May 2018 05:50:43 -0700",620.2365562
+31646,548463657,GABRIEL,WEBER,gabriel_weber23@gmail.com,83,0,New Barn,England,GB,DA3,51.3838,0.2942,Male,"Thu, 21 Dec 2017 06:13:01 -0800",380.3667952
+16020,548463657,GABRIEL,MUNOZ,gabriel_munoz7@yahooo.com,17,0,New Barn,England,GB,DA3,51.3838,0.2942,Male,"Thu, 21 Dec 2017 06:13:01 -0800",380.3667952
+6848,548463657,GABRIEL,SNAPP,gabrielsnapp@gmail.com,48,0,New Barn,England,GB,DA3,51.3838,0.2942,Male,"Thu, 21 Dec 2017 06:13:01 -0800",380.3667952
+33,493926470,KIM,MUNDELL,kmundell@aol.com,21,0,New Barn,England,GB,DA3,51.3838,0.2942,Female,"Tue, 03 Jan 2017 16:45:49 -0800",574.5467696
+22925,493926470,KIM,RODRIQUEZ,kim_rodriquez14@awssws.com,94,0,New Barn,England,GB,DA3,51.3838,0.2942,Female,"Tue, 03 Jan 2017 16:45:49 -0800",574.5467696
+38551,493926470,KIM,STEWART,kim_stewart21@zzzuuuppp.com,94,1,New Barn,England,GB,DA3,51.3838,0.2942,Female,"Tue, 03 Jan 2017 16:45:49 -0800",574.5467696
+38556,200539462,TINA,DURHAM,tina_durham5@microsoft.com,63,0,New Barn,England,GB,DA3,51.3838,0.2942,Female,"Mon, 01 May 2017 01:49:40 -0700",488.4111571
+2014,200539462,TINA,LINGLE,tinalingle@gmail.com,14,0,New Barn,England,GB,DA3,51.3838,0.2942,Female,"Mon, 01 May 2017 01:49:40 -0700",488.4111571
+22930,200539462,TINA,FISHER,tina_fisher13@yahooo.com,70,0,New Barn,England,GB,DA3,51.3838,0.2942,Female,"Mon, 01 May 2017 01:49:40 -0700",488.4111571
+22936,240521804,MARSHA,MOULTON,marsha_moulton13@gmail.com,62,1,New Barn,England,GB,DA3,51.3838,0.2942,Female,"Thu, 21 Jun 2018 22:37:34 -0700",544.3173347
+11234,240521804,MARSHA,HUFF,marshahuff@gmail.com,44,0,New Barn,England,GB,DA3,51.3838,0.2942,Female,"Thu, 21 Jun 2018 22:37:34 -0700",544.3173347
+38562,240521804,MARSHA,GILBERT,marsha_gilbert15@wp.com,21,0,New Barn,England,GB,DA3,51.3838,0.2942,Female,"Thu, 21 Jun 2018 22:37:34 -0700",544.3173347
+38552,392201047,ESSIE,SOLOMON,essie_solomon14@zzzuuuppp.com,37,0,New Barn,England,GB,DA3,51.3838,0.2942,Female,"Mon, 23 Oct 2017 18:44:09 -0700",611.7037077
+22926,392201047,ESSIE,SALINAS,essie_salinas7@zzzuuuppp.com,26,0,New Barn,England,GB,DA3,51.3838,0.2942,Female,"Mon, 23 Oct 2017 18:44:09 -0700",611.7037077
+5301,392201047,ESSIE,MYRES,essiemyres@yahoo.com,57,0,New Barn,England,GB,DA3,51.3838,0.2942,Female,"Mon, 23 Oct 2017 18:44:09 -0700",611.7037077
+38561,785418839,GWENDOLYN,STUMPF,gwendolyn_stumpf22@microsoft.com,42,1,New Barn,England,GB,DA3,51.3838,0.2942,Female,"Fri, 09 Mar 2018 17:52:48 -0800",451.9551999
+8790,785418839,GWENDOLYN,WILLIAMSON,gwilliamson@gmail.com,14,0,New Barn,England,GB,DA3,51.3838,0.2942,Female,"Fri, 09 Mar 2018 17:52:48 -0800",451.9551999
+22935,785418839,GWENDOLYN,YOUNGBLOOD,gwendolyn_youngblood11@microsoft.com,42,1,New Barn,England,GB,DA3,51.3838,0.2942,Female,"Fri, 09 Mar 2018 17:52:48 -0800",451.9551999
+8606,618958171,NICHOLAS,YOUNG,nicholasyoung@gmail.com,30,0,New Barn,England,GB,DA3,51.3838,0.2942,Male,"Thu, 01 Mar 2018 16:40:14 -0800",619.6207243
+31642,618958171,NICHOLAS,WILBURN,nicholas_wilburn2@awssws.com,23,0,New Barn,England,GB,DA3,51.3838,0.2942,Male,"Thu, 01 Mar 2018 16:40:14 -0800",619.6207243
+16016,618958171,NICHOLAS,FRASER,nicholas_fraser18@zzzuuuppp.com,57,1,New Barn,England,GB,DA3,51.3838,0.2942,Male,"Thu, 01 Mar 2018 16:40:14 -0800",619.6207243
+22931,558336623,LUELLA,BAXTER,luella_baxter11@zzzuuuppp.com,91,1,New Barn,England,GB,DA3,51.3838,0.2942,Female,"Sat, 25 Mar 2017 20:08:33 -0700",434.7030217
+1395,558336623,LUELLA,GONCALVES,luellagoncalves@yahoo.com,44,0,New Barn,England,GB,DA3,51.3838,0.2942,Female,"Sat, 25 Mar 2017 20:08:33 -0700",434.7030217
+38557,558336623,LUELLA,RIVERA,luella_rivera10@awssws.com,94,0,New Barn,England,GB,DA3,51.3838,0.2942,Female,"Sat, 25 Mar 2017 20:08:33 -0700",434.7030217
+1169,443177333,BRYAN,JOHNSON,bryan.johnson@gmail.com,52,0,New Barn,England,GB,DA3,51.3838,0.2942,Male,"Mon, 13 Mar 2017 13:59:26 -0700",761.6839786
+16025,443177333,BRYAN,CASH,bryan_cash17@yahooo.com,59,0,New Barn,England,GB,DA3,51.3838,0.2942,Male,"Mon, 13 Mar 2017 13:59:26 -0700",761.6839786
+31651,443177333,BRYAN,DEEMER,bryan_deemer13@gmail.com,65,1,New Barn,England,GB,DA3,51.3838,0.2942,Male,"Mon, 13 Mar 2017 13:59:26 -0700",761.6839786
+31648,587894389,FREDRICK,GROTH,fredrick_groth16@yahooo.com,50,0,New Barn,England,GB,DA3,51.3838,0.2942,Male,"Mon, 11 Dec 2017 22:17:29 -0800",637.9508317
+16022,587894389,FREDRICK,HILTON,fredrick_hilton12@gmail.com,61,0,New Barn,England,GB,DA3,51.3838,0.2942,Male,"Mon, 11 Dec 2017 22:17:29 -0800",637.9508317
+6579,587894389,FREDRICK,JONES,fredrickjones@yahoo.com,59,0,New Barn,England,GB,DA3,51.3838,0.2942,Male,"Mon, 11 Dec 2017 22:17:29 -0800",637.9508317
+3688,740846974,DOUGLAS,HARRISON,douglasharrison@gmail.com,25,0,New Barn,England,GB,DA3,51.3838,0.2942,Male,"Tue, 08 Aug 2017 17:07:23 -0700",580.4141115
+31649,740846974,DOUGLAS,SHEALY,douglas_shealy5@gmail.com,54,1,New Barn,England,GB,DA3,51.3838,0.2942,Male,"Tue, 08 Aug 2017 17:07:23 -0700",580.4141115
+16023,740846974,DOUGLAS,MACDONALD,douglas_macdonald11@zzzuuuppp.com,50,1,New Barn,England,GB,DA3,51.3838,0.2942,Male,"Tue, 08 Aug 2017 17:07:23 -0700",580.4141115
+3319,691989136,GAIL,KING,gailking@yahoo.com,16,0,New Barn,England,GB,DA3,51.3838,0.2942,Female,"Mon, 17 Jul 2017 04:21:56 -0700",690.0291132
+38559,691989136,GAIL,BASSHAM,gail_bassham7@yahooo.com,13,0,New Barn,England,GB,DA3,51.3838,0.2942,Female,"Mon, 17 Jul 2017 04:21:56 -0700",690.0291132
+22933,691989136,GAIL,WALKER,gail_walker23@gmail.com,89,0,New Barn,England,GB,DA3,51.3838,0.2942,Female,"Mon, 17 Jul 2017 04:21:56 -0700",690.0291132
+3533,744971417,SOPHIA,POTEETE,sophiapoteete@gmail.com,74,0,New Barn,England,GB,DA3,51.3838,0.2942,Female,"Mon, 31 Jul 2017 19:33:40 -0700",705.2644
+22938,744971417,SOPHIA,NEILL,sophia_neill21@gmail.com,85,0,New Barn,England,GB,DA3,51.3838,0.2942,Female,"Mon, 31 Jul 2017 19:33:40 -0700",705.2644
+38564,744971417,SOPHIA,STARKEY,sophia_starkey3@microsoft.com,53,0,New Barn,England,GB,DA3,51.3838,0.2942,Female,"Mon, 31 Jul 2017 19:33:40 -0700",705.2644
+8816,566962074,NANCY,HINES,nancy.hines@gmail.com,14,0,New Barn,England,GB,DA3,51.3838,0.2942,Female,"Sun, 11 Mar 2018 00:06:38 -0800",334.3826192
+38563,566962074,NANCY,FOUST,nancy_foust8@yahooo.com,66,0,New Barn,England,GB,DA3,51.3838,0.2942,Female,"Sun, 11 Mar 2018 00:06:38 -0800",334.3826192
+22937,566962074,NANCY,AQUILAR,nancy_aquilar1@microsoft.com,38,1,New Barn,England,GB,DA3,51.3838,0.2942,Female,"Sun, 11 Mar 2018 00:06:38 -0800",334.3826192
+16019,315654555,THOMAS,DOWNES,thomas_downes22@gmail.com,77,1,New Barn,England,GB,DA3,51.3838,0.2942,Male,"Mon, 22 Oct 2018 13:34:03 -0700",585.1295969
+31645,315654555,THOMAS,CLANTON,thomas_clanton13@microsoft.com,66,0,New Barn,England,GB,DA3,51.3838,0.2942,Male,"Mon, 22 Oct 2018 13:34:03 -0700",585.1295969
+14779,315654555,THOMAS,WALES,thomaswales@yahoo.com,16,0,New Barn,England,GB,DA3,51.3838,0.2942,Male,"Mon, 22 Oct 2018 13:34:03 -0700",585.1295969
+38555,842816192,SHERYL,PERRY,sheryl_perry13@awssws.com,43,1,New Barn,England,GB,DA3,51.3838,0.2942,Female,"Fri, 14 Apr 2017 13:04:12 -0700",417.4732609
+1730,842816192,SHERYL,COST,sherylcost@gmail.com,23,0,New Barn,England,GB,DA3,51.3838,0.2942,Female,"Fri, 14 Apr 2017 13:04:12 -0700",417.4732609
+22929,842816192,SHERYL,WAGNER,sheryl_wagner9@zzzuuuppp.com,25,0,New Barn,England,GB,DA3,51.3838,0.2942,Female,"Fri, 14 Apr 2017 13:04:12 -0700",417.4732609
+9255,627990731,DELFINA,MARSHALL,delfinamarshall@gmail.com,43,0,New Barn,England,GB,DA3,51.3838,0.2942,Female,"Wed, 28 Mar 2018 16:35:44 -0700",562.9627668
+22934,627990731,DELFINA,NOVAK,delfina_novak12@zzzuuuppp.com,52,1,New Barn,England,GB,DA3,51.3838,0.2942,Female,"Wed, 28 Mar 2018 16:35:44 -0700",562.9627668
+38560,627990731,DELFINA,DILWORTH,delfina_dilworth3@wp.com,28,0,New Barn,England,GB,DA3,51.3838,0.2942,Female,"Wed, 28 Mar 2018 16:35:44 -0700",562.9627668
+22932,363858646,TRACI,BYRGE,traci_byrge18@zzzuuuppp.com,95,0,New Barn,England,GB,DA3,51.3838,0.2942,Female,"Tue, 06 Nov 2018 16:04:21 -0800",609.1569436
+38558,363858646,TRACI,WILLIAMS,traci_williams9@microsoft.com,90,1,New Barn,England,GB,DA3,51.3838,0.2942,Female,"Tue, 06 Nov 2018 16:04:21 -0800",609.1569436
+15349,363858646,TRACI,JOURNEY,tracijourney@yahoo.com,56,0,New Barn,England,GB,DA3,51.3838,0.2942,Female,"Tue, 06 Nov 2018 16:04:21 -0800",609.1569436
+16018,818989786,CHARLES,COUSIN,charles_cousin13@yahooo.com,21,0,New Barn,England,GB,DA3,51.3838,0.2942,Male,"Wed, 13 Sep 2017 06:03:06 -0700",711.8734436
+31644,818989786,CHARLES,DUDLEY,charles_dudley2@awssws.com,89,1,New Barn,England,GB,DA3,51.3838,0.2942,Male,"Wed, 13 Sep 2017 06:03:06 -0700",711.8734436
+4393,818989786,CHARLES,MORRIS,cmorris@yahoo.com,42,0,New Barn,England,GB,DA3,51.3838,0.2942,Male,"Wed, 13 Sep 2017 06:03:06 -0700",711.8734436
+16021,711736798,RAUL,CAULEY,raul_cauley15@yahooo.com,98,0,New Barn,England,GB,DA3,51.3838,0.2942,Male,"Mon, 23 Jul 2018 00:20:35 -0700",720.7088682
+12005,711736798,RAUL,GUEVARA,raulguevara@gmail.com,88,0,New Barn,England,GB,DA3,51.3838,0.2942,Male,"Mon, 23 Jul 2018 00:20:35 -0700",720.7088682
+31647,711736798,RAUL,WITHROW,raul_withrow6@wp.com,99,1,New Barn,England,GB,DA3,51.3838,0.2942,Male,"Mon, 23 Jul 2018 00:20:35 -0700",720.7088682
+31640,400218870,GARY,GREENE,gary_greene22@yahooo.com,20,1,New Barn,England,GB,DA3,51.3838,0.2942,Male,"Thu, 09 Aug 2018 10:21:21 -0700",527.0732618
+12430,400218870,GARY,SHOOK,gshook@gmail.com,12,0,New Barn,England,GB,DA3,51.3838,0.2942,Male,"Thu, 09 Aug 2018 10:21:21 -0700",527.0732618
+16014,400218870,GARY,STOKES,gary_stokes11@awssws.com,95,0,New Barn,England,GB,DA3,51.3838,0.2942,Male,"Thu, 09 Aug 2018 10:21:21 -0700",527.0732618
+31652,611245050,NUMBERS,MUNCY,numbers_muncy19@gmail.com,88,0,New Barn,England,GB,DA3,51.3838,0.2942,Male,"Fri, 09 Mar 2018 05:31:02 -0800",428.4706631
+8809,611245050,NUMBERS,BENNETT,numbersbennett@aol.com,62,0,New Barn,England,GB,DA3,51.3838,0.2942,Male,"Fri, 09 Mar 2018 05:31:02 -0800",428.4706631
+16026,611245050,NUMBERS,CROSBY,numbers_crosby8@yahooo.com,81,1,New Barn,England,GB,DA3,51.3838,0.2942,Male,"Fri, 09 Mar 2018 05:31:02 -0800",428.4706631
+431,845950725,ANDREA,BILES,andreabiles@yahoo.com,46,0,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Female,"Mon, 30 Jan 2017 13:15:28 -0800",573.978057
+22945,845950725,ANDREA,PROFITT,andrea_profitt11@yahooo.com,19,1,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Female,"Mon, 30 Jan 2017 13:15:28 -0800",573.978057
+38571,845950725,ANDREA,PORTER,andrea_porter16@microsoft.com,59,1,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Female,"Mon, 30 Jan 2017 13:15:28 -0800",573.978057
+22948,752507927,PEGGIE,RUYBAL,peggie_ruybal3@yahooo.com,87,1,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Female,"Sun, 15 Jan 2017 10:02:22 -0800",596.9610135
+38574,752507927,PEGGIE,PHILLIPS,peggie_phillips14@wp.com,72,1,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Female,"Sun, 15 Jan 2017 10:02:22 -0800",596.9610135
+198,752507927,PEGGIE,HARTER,pharter@gmail.com,39,0,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Female,"Sun, 15 Jan 2017 10:02:22 -0800",596.9610135
+16036,192794915,WILLIAM,ANDERSON,william_anderson6@awssws.com,87,1,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Male,"Sun, 16 Jul 2017 05:09:16 -0700",491.7828136
+31662,192794915,WILLIAM,MORGAN,william_morgan17@awssws.com,66,0,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Male,"Sun, 16 Jul 2017 05:09:16 -0700",491.7828136
+3300,192794915,WILLIAM,WILFORD,williamwilford@gmail.com,48,0,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Male,"Sun, 16 Jul 2017 05:09:16 -0700",491.7828136
+31667,531541061,FRANCIS,JONES,francis_jones19@zzzuuuppp.com,48,0,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Male,"Tue, 30 Jan 2018 21:58:34 -0800",475.5511029
+16041,531541061,FRANCIS,HORST,francis_horst7@zzzuuuppp.com,32,0,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Male,"Tue, 30 Jan 2018 21:58:34 -0800",475.5511029
+7792,531541061,FRANCIS,NORRIS,francisnorris@yahoo.com,43,0,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Male,"Tue, 30 Jan 2018 21:58:34 -0800",475.5511029
+16030,213482838,ANDREW,NEGRON,andrew_negron8@zzzuuuppp.com,72,1,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Male,"Mon, 16 Jan 2017 19:25:54 -0800",416.7277525
+31656,213482838,ANDREW,DELACRUZ,andrew_delacruz17@awssws.com,26,1,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Male,"Mon, 16 Jan 2017 19:25:54 -0800",416.7277525
+208,213482838,ANDREW,MARTINI,amartini@yahoo.com,14,0,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Male,"Mon, 16 Jan 2017 19:25:54 -0800",416.7277525
+15928,923010909,KELLY,DILLARD,kellydillard@gmail.com,63,0,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Female,"Wed, 21 Nov 2018 10:18:17 -0800",632.9962762
+22940,923010909,KELLY,HOOKER,kelly_hooker17@awssws.com,36,0,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Female,"Wed, 21 Nov 2018 10:18:17 -0800",632.9962762
+38566,923010909,KELLY,WINNER,kelly_winner11@gmail.com,30,1,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Female,"Wed, 21 Nov 2018 10:18:17 -0800",632.9962762
+22942,906859874,JENNIFER,ROWLEY,jennifer_rowley1@yahooo.com,89,1,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Female,"Mon, 22 Jan 2018 20:50:29 -0800",476.725649
+38568,906859874,JENNIFER,STARLING,jennifer_starling12@zzzuuuppp.com,96,0,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Female,"Mon, 22 Jan 2018 20:50:29 -0800",476.725649
+7636,906859874,JENNIFER,MCLAURIN,jmclaurin@gmail.com,73,0,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Female,"Mon, 22 Jan 2018 20:50:29 -0800",476.725649
+31665,176043622,LESLIE,SAPP,leslie_sapp11@gmail.com,80,1,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Male,"Thu, 14 Jun 2018 14:33:57 -0700",301.2689495
+16039,176043622,LESLIE,WONG,leslie_wong2@awssws.com,62,1,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Male,"Thu, 14 Jun 2018 14:33:57 -0700",301.2689495
+11028,176043622,LESLIE,WESTFALL,lwestfall@gmail.com,56,0,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Male,"Thu, 14 Jun 2018 14:33:57 -0700",301.2689495
+31660,334603115,GORDON,OBRYAN,gordon_obryan9@gmail.com,56,0,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Male,"Tue, 24 Apr 2018 20:27:55 -0700",513.0478537
+9898,334603115,GORDON,FOUNTAIN,gordonfountain@yahoo.com,72,0,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Male,"Tue, 24 Apr 2018 20:27:55 -0700",513.0478537
+16034,334603115,GORDON,LUSTER,gordon_luster17@zzzuuuppp.com,75,0,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Male,"Tue, 24 Apr 2018 20:27:55 -0700",513.0478537
+31661,430493558,ERICK,HERMAN,erick_herman23@wp.com,85,1,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Male,"Sun, 10 Sep 2017 04:45:32 -0700",663.2156332
+4318,430493558,ERICK,PORTER,eporter@gmail.com,16,0,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Male,"Sun, 10 Sep 2017 04:45:32 -0700",663.2156332
+16035,430493558,ERICK,PRITCHARD,erick_pritchard4@awssws.com,95,1,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Male,"Sun, 10 Sep 2017 04:45:32 -0700",663.2156332
+31668,848191358,JOHN,HORNE,john_horne4@gmail.com,39,0,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Male,"Mon, 16 Jul 2018 20:01:38 -0700",365.3421315
+11827,848191358,JOHN,BOWMAN,johnbowman@yahoo.com,43,0,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Male,"Mon, 16 Jul 2018 20:01:38 -0700",365.3421315
+16042,848191358,JOHN,CORN,john_corn14@yahooo.com,19,0,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Male,"Mon, 16 Jul 2018 20:01:38 -0700",365.3421315
+31664,900258688,ADAM,FUSCO,adam_fusco5@awssws.com,41,0,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Male,"Wed, 27 Sep 2017 03:42:57 -0700",268.5690831
+4703,900258688,ADAM,TARR,atarr@hotmail.com,16,0,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Male,"Wed, 27 Sep 2017 03:42:57 -0700",268.5690831
+16038,900258688,ADAM,HOUSTON,adam_houston7@yahooo.com,84,1,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Male,"Wed, 27 Sep 2017 03:42:57 -0700",268.5690831
+1451,841971329,GERTRUDE,BRADLEY,gertrudebradley@gmail.com,20,0,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Female,"Tue, 28 Mar 2017 18:48:40 -0700",731.7259119
+22943,841971329,GERTRUDE,WILHELM,gertrude_wilhelm15@yahooo.com,73,1,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Female,"Tue, 28 Mar 2017 18:48:40 -0700",731.7259119
+38569,841971329,GERTRUDE,REESE,gertrude_reese23@yahooo.com,27,0,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Female,"Tue, 28 Mar 2017 18:48:40 -0700",731.7259119
+22947,891316100,MONICA,PETWAY,monica_petway9@microsoft.com,29,1,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Female,"Tue, 17 Jul 2018 14:53:04 -0700",697.0936001
+38573,891316100,MONICA,WALSH,monica_walsh12@microsoft.com,97,0,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Female,"Tue, 17 Jul 2018 14:53:04 -0700",697.0936001
+11858,891316100,MONICA,CAMPBELL,mcampbell@aol.com,47,0,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Female,"Tue, 17 Jul 2018 14:53:04 -0700",697.0936001
+22944,101471371,KRISTA,DELACRUZ,krista_delacruz15@gmail.com,99,0,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Female,"Thu, 26 Oct 2017 11:54:32 -0700",483.0883618
+38570,101471371,KRISTA,EATON,krista_eaton17@gmail.com,36,0,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Female,"Thu, 26 Oct 2017 11:54:32 -0700",483.0883618
+5368,101471371,KRISTA,MCFADDEN,kristamcfadden@aol.com,12,0,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Female,"Thu, 26 Oct 2017 11:54:32 -0700",483.0883618
+16031,533600425,JOSEPH,MINAYA,joseph_minaya1@wp.com,99,0,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Male,"Thu, 05 Jan 2017 09:31:11 -0800",368.5300282
+90,533600425,JOSEPH,REYES,jreyes@yahoo.com,44,0,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Male,"Thu, 05 Jan 2017 09:31:11 -0800",368.5300282
+31657,533600425,JOSEPH,FERLAND,joseph_ferland1@yahooo.com,57,0,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Male,"Thu, 05 Jan 2017 09:31:11 -0800",368.5300282
+16029,834277293,KENNETH,RODRIGUEZ,kenneth_rodriguez1@zzzuuuppp.com,77,0,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Male,"Sat, 03 Feb 2018 19:41:30 -0800",620.8793523
+31655,834277293,KENNETH,LEVITT,kenneth_levitt3@wp.com,95,1,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Male,"Sat, 03 Feb 2018 19:41:30 -0800",620.8793523
+7899,834277293,KENNETH,MARTIN,kmartin@aol.com,16,0,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Male,"Sat, 03 Feb 2018 19:41:30 -0800",620.8793523
+16032,513707183,ALEXANDER,MANZELLA,alexander_manzella9@wp.com,55,0,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Male,"Fri, 23 Feb 2018 05:01:11 -0800",287.5797897
+31658,513707183,ALEXANDER,ROCHELEAU,alexander_rocheleau8@awssws.com,91,1,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Male,"Fri, 23 Feb 2018 05:01:11 -0800",287.5797897
+8441,513707183,ALEXANDER,NANCE,alexandernance@gmail.com,48,0,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Male,"Fri, 23 Feb 2018 05:01:11 -0800",287.5797897
+38565,437089716,ERICA,DIAMOND,erica_diamond17@microsoft.com,63,0,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Female,"Sat, 06 Jan 2018 17:00:01 -0800",655.8285104
+7260,437089716,ERICA,GOLD,ericagold@gmail.com,59,0,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Female,"Sat, 06 Jan 2018 17:00:01 -0800",655.8285104
+22939,437089716,ERICA,HITT,erica_hitt18@microsoft.com,91,1,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Female,"Sat, 06 Jan 2018 17:00:01 -0800",655.8285104
+22941,683782842,VIRGIE,WALKER,virgie_walker4@yahooo.com,99,1,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Female,"Thu, 15 Feb 2018 15:46:56 -0800",670.7784642
+38567,683782842,VIRGIE,LAMBERT,virgie_lambert16@zzzuuuppp.com,78,1,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Female,"Thu, 15 Feb 2018 15:46:56 -0800",670.7784642
+8251,683782842,VIRGIE,MARTINDALE,vmartindale@gmail.com,12,0,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Female,"Thu, 15 Feb 2018 15:46:56 -0800",670.7784642
+16033,542490307,ARCHIE,BELDEN,archie_belden19@zzzuuuppp.com,80,1,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Male,"Mon, 10 Apr 2017 18:01:56 -0700",752.2827064
+31659,542490307,ARCHIE,BURGESS,archie_burgess11@awssws.com,52,0,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Male,"Mon, 10 Apr 2017 18:01:56 -0700",752.2827064
+1625,542490307,ARCHIE,MOUSER,archiemouser@gmail.com,39,0,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Male,"Mon, 10 Apr 2017 18:01:56 -0700",752.2827064
+31669,286449629,DWIGHT,PELTIER,dwight_peltier11@yahooo.com,67,1,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Male,"Tue, 13 Feb 2018 08:46:02 -0800",378.5829211
+16043,286449629,DWIGHT,CLOYD,dwight_cloyd7@microsoft.com,76,1,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Male,"Tue, 13 Feb 2018 08:46:02 -0800",378.5829211
+8181,286449629,DWIGHT,BATTLE,dbattle@gmail.com,47,0,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Male,"Tue, 13 Feb 2018 08:46:02 -0800",378.5829211
+13459,326660845,KIMBERLY,MARENCO,kmarenco@gmail.com,12,0,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Female,"Tue, 11 Sep 2018 14:46:02 -0700",521.6943409
+22946,326660845,KIMBERLY,PLAZA,kimberly_plaza4@gmail.com,19,0,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Female,"Tue, 11 Sep 2018 14:46:02 -0700",521.6943409
+38572,326660845,KIMBERLY,MEYERS,kimberly_meyers2@microsoft.com,19,0,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Female,"Tue, 11 Sep 2018 14:46:02 -0700",521.6943409
+31663,173216755,DANNY,GOINS,danny_goins7@yahooo.com,52,1,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Male,"Fri, 06 Oct 2017 12:10:08 -0700",303.4430561
+4899,173216755,DANNY,MCDONALD,dannymcdonald@gmail.com,38,0,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Male,"Fri, 06 Oct 2017 12:10:08 -0700",303.4430561
+16037,173216755,DANNY,RICKS,danny_ricks8@zzzuuuppp.com,37,1,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Male,"Fri, 06 Oct 2017 12:10:08 -0700",303.4430561
+941,450492406,RAFAEL,REGISTER,rafael.register@gmail.com,61,0,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Male,"Sat, 25 Feb 2017 18:13:05 -0800",586.6042409
+16040,450492406,RAFAEL,LOPEZ,rafael_lopez6@yahooo.com,71,1,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Male,"Sat, 25 Feb 2017 18:13:05 -0800",586.6042409
+31666,450492406,RAFAEL,WATERS,rafael_waters20@zzzuuuppp.com,53,1,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Male,"Sat, 25 Feb 2017 18:13:05 -0800",586.6042409
+6791,164476665,DEAN,BURNETT,deanburnett@hotmail.com,44,0,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Male,"Tue, 19 Dec 2017 03:04:11 -0800",410.668575
+31670,164476665,DEAN,BOLLINGER,dean_bollinger16@gmail.com,84,1,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Male,"Tue, 19 Dec 2017 03:04:11 -0800",410.668575
+16044,164476665,DEAN,HENRY,dean_henry8@gmail.com,18,0,Tullybannocher,Scotland,GB,PH6,56.4019,-4.04,Male,"Tue, 19 Dec 2017 03:04:11 -0800",410.668575
+31676,723167275,STEVEN,PETERS,steven_peters23@wp.com,60,0,Hoghton,England,GB,PR5,53.7349,-2.588,Male,"Thu, 21 Jun 2018 00:39:56 -0700",374.9806722
+16050,723167275,STEVEN,DUBOIS,steven_dubois7@gmail.com,38,1,Hoghton,England,GB,PR5,53.7349,-2.588,Male,"Thu, 21 Jun 2018 00:39:56 -0700",374.9806722
+11220,723167275,STEVEN,BARLOW,steven.barlow@yahoo.com,36,0,Hoghton,England,GB,PR5,53.7349,-2.588,Male,"Thu, 21 Jun 2018 00:39:56 -0700",374.9806722
+15761,773749804,JAQUELINE,DICKERSON,jaquelinedickerson@gmail.com,48,0,Hoghton,England,GB,PR5,53.7349,-2.588,Female,"Sat, 17 Nov 2018 16:49:44 -0800",661.4343041
+22951,773749804,JAQUELINE,MELTON,jaqueline_melton18@yahooo.com,89,1,Hoghton,England,GB,PR5,53.7349,-2.588,Female,"Sat, 17 Nov 2018 16:49:44 -0800",661.4343041
+38577,773749804,JAQUELINE,DANIELS,jaqueline_daniels14@awssws.com,77,1,Hoghton,England,GB,PR5,53.7349,-2.588,Female,"Sat, 17 Nov 2018 16:49:44 -0800",661.4343041
+31671,157577533,RICHARD,BROADHURST,richard_broadhurst18@zzzuuuppp.com,84,1,Hoghton,England,GB,PR5,53.7349,-2.588,Male,"Tue, 18 Jul 2017 22:07:13 -0700",294.6487696
+3340,157577533,RICHARD,FRENCH,richardfrench@yahoo.com,14,0,Hoghton,England,GB,PR5,53.7349,-2.588,Male,"Tue, 18 Jul 2017 22:07:13 -0700",294.6487696
+16045,157577533,RICHARD,KROGER,richard_kroger13@gmail.com,85,0,Hoghton,England,GB,PR5,53.7349,-2.588,Male,"Tue, 18 Jul 2017 22:07:13 -0700",294.6487696
+12323,792282450,ELISA,BRYSON,elisabryson@gmail.com,16,0,Hoghton,England,GB,PR5,53.7349,-2.588,Female,"Sun, 05 Aug 2018 18:25:37 -0700",606.6696363
+38578,792282450,ELISA,SATTERFIELD,elisa_satterfield11@microsoft.com,48,0,Hoghton,England,GB,PR5,53.7349,-2.588,Female,"Sun, 05 Aug 2018 18:25:37 -0700",606.6696363
+22952,792282450,ELISA,CARD,elisa_card5@yahooo.com,58,1,Hoghton,England,GB,PR5,53.7349,-2.588,Female,"Sun, 05 Aug 2018 18:25:37 -0700",606.6696363
+38575,664990043,BRIDGETTE,RIDLEY,bridgette_ridley18@microsoft.com,76,0,Hoghton,England,GB,PR5,53.7349,-2.588,Female,"Wed, 20 Jun 2018 17:32:34 -0700",328.8305794
+11186,664990043,BRIDGETTE,COX,bridgette.cox@aol.com,47,0,Hoghton,England,GB,PR5,53.7349,-2.588,Female,"Wed, 20 Jun 2018 17:32:34 -0700",328.8305794
+22949,664990043,BRIDGETTE,GARZA,bridgette_garza17@wp.com,59,1,Hoghton,England,GB,PR5,53.7349,-2.588,Female,"Wed, 20 Jun 2018 17:32:34 -0700",328.8305794
+4383,297551457,HAROLD,ISOM,haroldisom@gmail.com,24,0,Hoghton,England,GB,PR5,53.7349,-2.588,Male,"Wed, 13 Sep 2017 09:02:52 -0700",375.3087731
+31684,297551457,HAROLD,SPENCER,harold_spencer3@zzzuuuppp.com,45,0,Hoghton,England,GB,PR5,53.7349,-2.588,Male,"Wed, 13 Sep 2017 09:02:52 -0700",375.3087731
+16058,297551457,HAROLD,PETIT,harold_petit7@microsoft.com,44,0,Hoghton,England,GB,PR5,53.7349,-2.588,Male,"Wed, 13 Sep 2017 09:02:52 -0700",375.3087731
+22959,641984359,SUSAN,BROOKS,susan_brooks22@zzzuuuppp.com,80,1,Hoghton,England,GB,PR5,53.7349,-2.588,Female,"Thu, 07 Sep 2017 20:47:35 -0700",597.8134284
+38585,641984359,SUSAN,CROWELL,susan_crowell13@zzzuuuppp.com,87,1,Hoghton,England,GB,PR5,53.7349,-2.588,Female,"Thu, 07 Sep 2017 20:47:35 -0700",597.8134284
+4241,641984359,SUSAN,BERGSTROM,sbergstrom@yahoo.com,47,0,Hoghton,England,GB,PR5,53.7349,-2.588,Female,"Thu, 07 Sep 2017 20:47:35 -0700",597.8134284
+31673,426206320,LAURENCE,WOLF,laurence_wolf6@zzzuuuppp.com,20,1,Hoghton,England,GB,PR5,53.7349,-2.588,Male,"Thu, 24 Aug 2017 19:18:22 -0700",264.9541063
+3966,426206320,LAURENCE,MIRANDA,laurencemiranda@gmail.com,37,0,Hoghton,England,GB,PR5,53.7349,-2.588,Male,"Thu, 24 Aug 2017 19:18:22 -0700",264.9541063
+16047,426206320,LAURENCE,UNGAR,laurence_ungar17@awssws.com,78,1,Hoghton,England,GB,PR5,53.7349,-2.588,Male,"Thu, 24 Aug 2017 19:18:22 -0700",264.9541063
+31685,853026676,JAMES,BREHM,james_brehm9@wp.com,39,1,Hoghton,England,GB,PR5,53.7349,-2.588,Male,"Sat, 07 Jul 2018 04:42:14 -0700",284.9985331
+11613,853026676,JAMES,MORGAN,jamesmorgan@gmail.com,44,0,Hoghton,England,GB,PR5,53.7349,-2.588,Male,"Sat, 07 Jul 2018 04:42:14 -0700",284.9985331
+16059,853026676,JAMES,MILLER,james_miller18@gmail.com,17,1,Hoghton,England,GB,PR5,53.7349,-2.588,Male,"Sat, 07 Jul 2018 04:42:14 -0700",284.9985331
+166,184373880,FLORENCE,PETRELLA,fpetrella@gmail.com,63,0,Hoghton,England,GB,PR5,53.7349,-2.588,Female,"Wed, 11 Jan 2017 21:38:19 -0800",506.0354899
+22960,184373880,FLORENCE,WEINTRAUB,florence_weintraub13@yahooo.com,70,0,Hoghton,England,GB,PR5,53.7349,-2.588,Female,"Wed, 11 Jan 2017 21:38:19 -0800",506.0354899
+38586,184373880,FLORENCE,STOKELY,florence_stokely3@wp.com,60,1,Hoghton,England,GB,PR5,53.7349,-2.588,Female,"Wed, 11 Jan 2017 21:38:19 -0800",506.0354899
+16055,217940607,EDDIE,MORTON,eddie_morton7@yahooo.com,64,0,Hoghton,England,GB,PR5,53.7349,-2.588,Male,"Tue, 20 Feb 2018 01:41:40 -0800",408.9170443
+8353,217940607,EDDIE,YOUNG,eddieyoung@gmail.com,53,0,Hoghton,England,GB,PR5,53.7349,-2.588,Male,"Tue, 20 Feb 2018 01:41:40 -0800",408.9170443
+31681,217940607,EDDIE,BROWN,eddie_brown4@yahooo.com,95,1,Hoghton,England,GB,PR5,53.7349,-2.588,Male,"Tue, 20 Feb 2018 01:41:40 -0800",408.9170443
+31682,647569032,KEVIN,SHAFFER,kevin_shaffer6@microsoft.com,80,0,Hoghton,England,GB,PR5,53.7349,-2.588,Male,"Fri, 15 Jun 2018 20:46:40 -0700",490.641512
+11066,647569032,KEVIN,BANKSTON,kbankston@aol.com,33,0,Hoghton,England,GB,PR5,53.7349,-2.588,Male,"Fri, 15 Jun 2018 20:46:40 -0700",490.641512
+16056,647569032,KEVIN,BOES,kevin_boes1@microsoft.com,97,1,Hoghton,England,GB,PR5,53.7349,-2.588,Male,"Fri, 15 Jun 2018 20:46:40 -0700",490.641512
+2156,269211023,MARK,SNOW,marksnow@gmail.com,32,0,Hoghton,England,GB,PR5,53.7349,-2.588,Male,"Tue, 09 May 2017 00:10:01 -0700",576.4776072
+31674,269211023,MARK,NEUMANN,mark_neumann6@wp.com,81,0,Hoghton,England,GB,PR5,53.7349,-2.588,Male,"Tue, 09 May 2017 00:10:01 -0700",576.4776072
+16048,269211023,MARK,JORDAN,mark_jordan19@gmail.com,65,0,Hoghton,England,GB,PR5,53.7349,-2.588,Male,"Tue, 09 May 2017 00:10:01 -0700",576.4776072
+2139,691757220,SANDRA,HOPSON,shopson@gmail.com,38,0,Hoghton,England,GB,PR5,53.7349,-2.588,Female,"Mon, 08 May 2017 13:09:33 -0700",359.3395498
+38584,691757220,SANDRA,SHULER,sandra_shuler22@microsoft.com,99,1,Hoghton,England,GB,PR5,53.7349,-2.588,Female,"Mon, 08 May 2017 13:09:33 -0700",359.3395498
+22958,691757220,SANDRA,KLINE,sandra_kline13@gmail.com,66,1,Hoghton,England,GB,PR5,53.7349,-2.588,Female,"Mon, 08 May 2017 13:09:33 -0700",359.3395498
+6787,315316645,SHERRIE,WHITT,sherriewhitt@yahoo.com,36,0,Hoghton,England,GB,PR5,53.7349,-2.588,Female,"Tue, 19 Dec 2017 23:28:27 -0800",695.5923299
+38587,315316645,SHERRIE,FAIR,sherrie_fair8@microsoft.com,13,0,Hoghton,England,GB,PR5,53.7349,-2.588,Female,"Tue, 19 Dec 2017 23:28:27 -0800",695.5923299
+22961,315316645,SHERRIE,DOUGLAS,sherrie_douglas12@microsoft.com,37,1,Hoghton,England,GB,PR5,53.7349,-2.588,Female,"Tue, 19 Dec 2017 23:28:27 -0800",695.5923299
+4422,351566506,NORMAN,KIM,normankim@gmail.com,36,0,Hoghton,England,GB,PR5,53.7349,-2.588,Male,"Thu, 14 Sep 2017 10:01:39 -0700",392.5962752
+31678,351566506,NORMAN,MIRAGLIA,norman_miraglia18@yahooo.com,37,1,Hoghton,England,GB,PR5,53.7349,-2.588,Male,"Thu, 14 Sep 2017 10:01:39 -0700",392.5962752
+16052,351566506,NORMAN,ALVAREZ,norman_alvarez11@microsoft.com,44,0,Hoghton,England,GB,PR5,53.7349,-2.588,Male,"Thu, 14 Sep 2017 10:01:39 -0700",392.5962752
+13572,528801194,RAY,BOYCE,rayboyce@gmail.com,36,0,Hoghton,England,GB,PR5,53.7349,-2.588,Male,"Fri, 14 Sep 2018 15:32:39 -0700",574.6947566
+31675,528801194,RAY,MCCOLLUM,ray_mccollum8@wp.com,23,1,Hoghton,England,GB,PR5,53.7349,-2.588,Male,"Fri, 14 Sep 2018 15:32:39 -0700",574.6947566
+16049,528801194,RAY,BEST,ray_best20@zzzuuuppp.com,61,1,Hoghton,England,GB,PR5,53.7349,-2.588,Male,"Fri, 14 Sep 2018 15:32:39 -0700",574.6947566
+38576,715460524,GAIL,LOPEZ,gail_lopez20@awssws.com,55,1,Hoghton,England,GB,PR5,53.7349,-2.588,Female,"Thu, 14 Dec 2017 05:06:24 -0800",552.9905951
+6674,715460524,GAIL,AHART,gail.ahart@yahoo.com,41,0,Hoghton,England,GB,PR5,53.7349,-2.588,Female,"Thu, 14 Dec 2017 05:06:24 -0800",552.9905951
+22950,715460524,GAIL,CHRISTY,gail_christy1@wp.com,59,0,Hoghton,England,GB,PR5,53.7349,-2.588,Female,"Thu, 14 Dec 2017 05:06:24 -0800",552.9905951
+16046,837962932,DALE,ALLEN,dale_allen21@microsoft.com,73,0,Hoghton,England,GB,PR5,53.7349,-2.588,Male,"Wed, 08 Mar 2017 19:24:49 -0800",433.0997605
+31672,837962932,DALE,HOLLINGSWORTH,dale_hollingsworth11@gmail.com,86,1,Hoghton,England,GB,PR5,53.7349,-2.588,Male,"Wed, 08 Mar 2017 19:24:49 -0800",433.0997605
+1090,837962932,DALE,WILIAMS,dalewiliams@yahoo.com,48,0,Hoghton,England,GB,PR5,53.7349,-2.588,Male,"Wed, 08 Mar 2017 19:24:49 -0800",433.0997605
+13792,436811208,JODI,GRISWOLD,jodigriswold@gmail.com,64,0,Hoghton,England,GB,PR5,53.7349,-2.588,Female,"Thu, 20 Sep 2018 07:27:21 -0700",576.983154
+38581,436811208,JODI,POPE,jodi_pope10@zzzuuuppp.com,34,1,Hoghton,England,GB,PR5,53.7349,-2.588,Female,"Thu, 20 Sep 2018 07:27:21 -0700",576.983154
+22955,436811208,JODI,JAMES,jodi_james10@gmail.com,41,0,Hoghton,England,GB,PR5,53.7349,-2.588,Female,"Thu, 20 Sep 2018 07:27:21 -0700",576.983154
+5416,184424658,SUZANNE,TERRELL,suzanneterrell@gmail.com,58,0,Hoghton,England,GB,PR5,53.7349,-2.588,Female,"Sun, 29 Oct 2017 12:51:08 -0700",346.2369931
+38582,184424658,SUZANNE,CUOMO,suzanne_cuomo16@awssws.com,48,0,Hoghton,England,GB,PR5,53.7349,-2.588,Female,"Sun, 29 Oct 2017 12:51:08 -0700",346.2369931
+22956,184424658,SUZANNE,WESTMAN,suzanne_westman19@zzzuuuppp.com,90,1,Hoghton,England,GB,PR5,53.7349,-2.588,Female,"Sun, 29 Oct 2017 12:51:08 -0700",346.2369931
+9529,444344792,MAYRA,HABER,mayrahaber@gmail.com,37,0,Hoghton,England,GB,PR5,53.7349,-2.588,Female,"Mon, 09 Apr 2018 17:05:45 -0700",654.0487171
+38579,444344792,MAYRA,CURLEY,mayra_curley18@gmail.com,25,1,Hoghton,England,GB,PR5,53.7349,-2.588,Female,"Mon, 09 Apr 2018 17:05:45 -0700",654.0487171
+22953,444344792,MAYRA,HARDY,mayra_hardy2@gmail.com,44,0,Hoghton,England,GB,PR5,53.7349,-2.588,Female,"Mon, 09 Apr 2018 17:05:45 -0700",654.0487171
+3205,600800223,STEVEN,TAYLOR,staylor@hotmail.com,38,0,Hoghton,England,GB,PR5,53.7349,-2.588,Male,"Wed, 12 Jul 2017 08:35:03 -0700",410.249555
+16054,600800223,STEVEN,PATTERSON,steven_patterson7@wp.com,62,1,Hoghton,England,GB,PR5,53.7349,-2.588,Male,"Wed, 12 Jul 2017 08:35:03 -0700",410.249555
+31680,600800223,STEVEN,PRESTON,steven_preston6@zzzuuuppp.com,29,1,Hoghton,England,GB,PR5,53.7349,-2.588,Male,"Wed, 12 Jul 2017 08:35:03 -0700",410.249555
+632,137156580,BRIAN,QUINNEY,bquinney@gmail.com,80,0,Hoghton,England,GB,PR5,53.7349,-2.588,Male,"Thu, 09 Feb 2017 17:59:12 -0800",662.924845
+16051,137156580,BRIAN,ROPER,brian_roper7@zzzuuuppp.com,95,1,Hoghton,England,GB,PR5,53.7349,-2.588,Male,"Thu, 09 Feb 2017 17:59:12 -0800",662.924845
+31677,137156580,BRIAN,GARCIA,brian_garcia7@wp.com,63,0,Hoghton,England,GB,PR5,53.7349,-2.588,Male,"Thu, 09 Feb 2017 17:59:12 -0800",662.924845
+11557,491781351,ANNE,BRADWAY,annebradway@gmail.com,24,0,Hoghton,England,GB,PR5,53.7349,-2.588,Female,"Thu, 05 Jul 2018 01:57:52 -0700",723.9778144
+22957,491781351,ANNE,CRABTREE,anne_crabtree6@yahooo.com,73,1,Hoghton,England,GB,PR5,53.7349,-2.588,Female,"Thu, 05 Jul 2018 01:57:52 -0700",723.9778144
+38583,491781351,ANNE,MILLER,anne_miller12@gmail.com,97,0,Hoghton,England,GB,PR5,53.7349,-2.588,Female,"Thu, 05 Jul 2018 01:57:52 -0700",723.9778144
+38580,920522223,LATONYA,DUNCAN,latonya_duncan17@wp.com,93,0,Hoghton,England,GB,PR5,53.7349,-2.588,Female,"Tue, 04 Apr 2017 01:47:45 -0700",488.4719933
+22954,920522223,LATONYA,TRINH,latonya_trinh23@wp.com,20,0,Hoghton,England,GB,PR5,53.7349,-2.588,Female,"Tue, 04 Apr 2017 01:47:45 -0700",488.4719933
+1563,920522223,LATONYA,HERNANDEZ,lhernandez@gmail.com,42,0,Hoghton,England,GB,PR5,53.7349,-2.588,Female,"Tue, 04 Apr 2017 01:47:45 -0700",488.4719933
+31679,451933425,JASON,ALBRITTON,jason_albritton20@yahooo.com,99,1,Hoghton,England,GB,PR5,53.7349,-2.588,Male,"Sun, 21 Oct 2018 23:27:11 -0700",714.8629638
+14770,451933425,JASON,FORTNEY,jasonfortney@hotmail.com,39,0,Hoghton,England,GB,PR5,53.7349,-2.588,Male,"Sun, 21 Oct 2018 23:27:11 -0700",714.8629638
+16053,451933425,JASON,CHAMBLISS,jason_chambliss9@wp.com,35,1,Hoghton,England,GB,PR5,53.7349,-2.588,Male,"Sun, 21 Oct 2018 23:27:11 -0700",714.8629638
+16057,805343730,JOE,DAY,joe_day15@gmail.com,22,0,Hoghton,England,GB,PR5,53.7349,-2.588,Male,"Sun, 27 May 2018 20:18:33 -0700",576.5080183
+10627,805343730,JOE,SHIELDS,joeshields@yahoo.com,16,0,Hoghton,England,GB,PR5,53.7349,-2.588,Male,"Sun, 27 May 2018 20:18:33 -0700",576.5080183
+31683,805343730,JOE,LESSARD,joe_lessard9@zzzuuuppp.com,64,0,Hoghton,England,GB,PR5,53.7349,-2.588,Male,"Sun, 27 May 2018 20:18:33 -0700",576.5080183
+38589,926687489,PATRICIA,EUBANK,patricia_eubank7@gmail.com,64,0,Crossens,England,GB,PR9,53.6701,-2.949,Female,"Fri, 05 May 2017 16:56:32 -0700",507.0082932
+2089,926687489,PATRICIA,GARCIA,patriciagarcia@gmail.com,16,0,Crossens,England,GB,PR9,53.6701,-2.949,Female,"Fri, 05 May 2017 16:56:32 -0700",507.0082932
+22963,926687489,PATRICIA,GARCIA,patricia_garcia16@awssws.com,44,1,Crossens,England,GB,PR9,53.6701,-2.949,Female,"Fri, 05 May 2017 16:56:32 -0700",507.0082932
+31689,225111559,ALBERT,HAMRICK,albert_hamrick19@awssws.com,24,1,Crossens,England,GB,PR9,53.6701,-2.949,Male,"Thu, 12 Jan 2017 13:39:33 -0800",402.2310785
+16063,225111559,ALBERT,COTNER,albert_cotner2@awssws.com,37,1,Crossens,England,GB,PR9,53.6701,-2.949,Male,"Thu, 12 Jan 2017 13:39:33 -0800",402.2310785
+175,225111559,ALBERT,FOSTER,albertfoster@gmail.com,14,0,Crossens,England,GB,PR9,53.6701,-2.949,Male,"Thu, 12 Jan 2017 13:39:33 -0800",402.2310785
+22972,623047957,KAREN,MILLS,karen_mills7@zzzuuuppp.com,39,0,Crossens,England,GB,PR9,53.6701,-2.949,Female,"Mon, 01 Jan 2018 14:01:58 -0800",560.3931889
+38598,623047957,KAREN,GONZALEZ,karen_gonzalez2@gmail.com,22,0,Crossens,England,GB,PR9,53.6701,-2.949,Female,"Mon, 01 Jan 2018 14:01:58 -0800",560.3931889
+7140,623047957,KAREN,WELCH,kwelch@yahoo.com,59,0,Crossens,England,GB,PR9,53.6701,-2.949,Female,"Mon, 01 Jan 2018 14:01:58 -0800",560.3931889
+38591,472370970,DELIA,HILL,delia_hill6@microsoft.com,42,0,Crossens,England,GB,PR9,53.6701,-2.949,Female,"Fri, 24 Nov 2017 14:15:34 -0800",387.5088166
+6131,472370970,DELIA,HANSEN,deliahansen@gmail.com,16,0,Crossens,England,GB,PR9,53.6701,-2.949,Female,"Fri, 24 Nov 2017 14:15:34 -0800",387.5088166
+22965,472370970,DELIA,OLSEN,delia_olsen1@yahooo.com,34,0,Crossens,England,GB,PR9,53.6701,-2.949,Female,"Fri, 24 Nov 2017 14:15:34 -0800",387.5088166
+13057,311104032,SARA,VANGILDER,saravangilder@gmail.com,48,0,Crossens,England,GB,PR9,53.6701,-2.949,Female,"Thu, 30 Aug 2018 02:37:20 -0700",754.9203335
+22975,311104032,SARA,MOLINA,sara_molina22@zzzuuuppp.com,53,1,Crossens,England,GB,PR9,53.6701,-2.949,Female,"Thu, 30 Aug 2018 02:37:20 -0700",754.9203335
+38601,311104032,SARA,CALDWELL,sara_caldwell18@yahooo.com,32,1,Crossens,England,GB,PR9,53.6701,-2.949,Female,"Thu, 30 Aug 2018 02:37:20 -0700",754.9203335
+22971,132123937,ADELE,POSEY,adele_posey19@gmail.com,35,1,Crossens,England,GB,PR9,53.6701,-2.949,Female,"Sun, 11 Mar 2018 15:12:06 -0700",504.8974305
+8832,132123937,ADELE,STUBBS,adelestubbs@gmail.com,16,0,Crossens,England,GB,PR9,53.6701,-2.949,Female,"Sun, 11 Mar 2018 15:12:06 -0700",504.8974305
+38597,132123937,ADELE,HESTER,adele_hester15@gmail.com,34,0,Crossens,England,GB,PR9,53.6701,-2.949,Female,"Sun, 11 Mar 2018 15:12:06 -0700",504.8974305
+22964,671300394,GAYLA,GARCIA,gayla_garcia8@microsoft.com,46,1,Crossens,England,GB,PR9,53.6701,-2.949,Female,"Mon, 05 Jun 2017 17:30:51 -0700",389.4289021
+38590,671300394,GAYLA,HOLGUIN,gayla_holguin18@yahooo.com,62,1,Crossens,England,GB,PR9,53.6701,-2.949,Female,"Mon, 05 Jun 2017 17:30:51 -0700",389.4289021
+2565,671300394,GAYLA,BURKE,gburke@hotmail.com,16,0,Crossens,England,GB,PR9,53.6701,-2.949,Female,"Mon, 05 Jun 2017 17:30:51 -0700",389.4289021
+22967,415981872,JUNE,MONTOYA,june_montoya2@gmail.com,94,1,Crossens,England,GB,PR9,53.6701,-2.949,Female,"Fri, 01 Dec 2017 08:11:01 -0800",320.13851
+38593,415981872,JUNE,YOKLEY,june_yokley8@microsoft.com,56,1,Crossens,England,GB,PR9,53.6701,-2.949,Female,"Fri, 01 Dec 2017 08:11:01 -0800",320.13851
+6322,415981872,JUNE,KILGORE,junekilgore@gmail.com,38,0,Crossens,England,GB,PR9,53.6701,-2.949,Female,"Fri, 01 Dec 2017 08:11:01 -0800",320.13851
+5508,438388033,MARION,MASON,marionmason@gmail.com,52,0,Crossens,England,GB,PR9,53.6701,-2.949,Female,"Thu, 02 Nov 2017 03:10:58 -0700",263.3439319
+38599,438388033,MARION,GODSEY,marion_godsey5@yahooo.com,93,1,Crossens,England,GB,PR9,53.6701,-2.949,Female,"Thu, 02 Nov 2017 03:10:58 -0700",263.3439319
+22973,438388033,MARION,HOUGH,marion_hough5@awssws.com,14,1,Crossens,England,GB,PR9,53.6701,-2.949,Female,"Thu, 02 Nov 2017 03:10:58 -0700",263.3439319
+22969,174547285,DEBORAH,WARD,deborah_ward18@gmail.com,33,1,Crossens,England,GB,PR9,53.6701,-2.949,Female,"Wed, 07 Mar 2018 10:21:31 -0800",609.6732696
+8746,174547285,DEBORAH,WILKERSON,dwilkerson@yahoo.com,43,0,Crossens,England,GB,PR9,53.6701,-2.949,Female,"Wed, 07 Mar 2018 10:21:31 -0800",609.6732696
+38595,174547285,DEBORAH,HAMMITT,deborah_hammitt12@zzzuuuppp.com,57,1,Crossens,England,GB,PR9,53.6701,-2.949,Female,"Wed, 07 Mar 2018 10:21:31 -0800",609.6732696
+10361,817060198,JARED,SHAW,jshaw@yahoo.com,14,0,Crossens,England,GB,PR9,53.6701,-2.949,Male,"Wed, 16 May 2018 12:55:04 -0700",408.9170443
+16065,817060198,JARED,WALKER,jared_walker5@yahooo.com,43,1,Crossens,England,GB,PR9,53.6701,-2.949,Male,"Wed, 16 May 2018 12:55:04 -0700",408.9170443
+31691,817060198,JARED,STUCKEY,jared_stuckey9@awssws.com,40,0,Crossens,England,GB,PR9,53.6701,-2.949,Male,"Wed, 16 May 2018 12:55:04 -0700",408.9170443
+22978,571983723,KIM,PEARSON,kim_pearson9@gmail.com,29,0,Crossens,England,GB,PR9,53.6701,-2.949,Female,"Tue, 23 Jan 2018 22:23:15 -0800",622.0405748
+38604,571983723,KIM,CARR,kim_carr1@wp.com,87,0,Crossens,England,GB,PR9,53.6701,-2.949,Female,"Tue, 23 Jan 2018 22:23:15 -0800",622.0405748
+7644,571983723,KIM,COOK,kcook@yahoo.com,12,0,Crossens,England,GB,PR9,53.6701,-2.949,Female,"Tue, 23 Jan 2018 22:23:15 -0800",622.0405748
+22968,698894703,TONI,RODRIGUEZ,toni_rodriguez18@yahooo.com,38,1,Crossens,England,GB,PR9,53.6701,-2.949,Female,"Sat, 29 Sep 2018 23:34:33 -0700",637.6155264
+38594,698894703,TONI,ANDERSON,toni_anderson11@yahooo.com,17,1,Crossens,England,GB,PR9,53.6701,-2.949,Female,"Sat, 29 Sep 2018 23:34:33 -0700",637.6155264
+14061,698894703,TONI,HAMRICK,thamrick@gmail.com,14,0,Crossens,England,GB,PR9,53.6701,-2.949,Female,"Sat, 29 Sep 2018 23:34:33 -0700",637.6155264
+22977,536322675,JULIA,RASH,julia_rash21@gmail.com,68,0,Crossens,England,GB,PR9,53.6701,-2.949,Female,"Mon, 29 Oct 2018 16:30:45 -0700",663.1062083
+38603,536322675,JULIA,GETZ,julia_getz6@wp.com,30,1,Crossens,England,GB,PR9,53.6701,-2.949,Female,"Mon, 29 Oct 2018 16:30:45 -0700",663.1062083
+15015,536322675,JULIA,BEARD,juliabeard@gmail.com,28,0,Crossens,England,GB,PR9,53.6701,-2.949,Female,"Mon, 29 Oct 2018 16:30:45 -0700",663.1062083
+16060,158300277,FRANK,CRANMER,frank_cranmer13@microsoft.com,75,0,Crossens,England,GB,PR9,53.6701,-2.949,Male,"Wed, 13 Dec 2017 19:53:09 -0800",413.6037026
+6649,158300277,FRANK,VOORHIES,frankvoorhies@gmail.com,53,0,Crossens,England,GB,PR9,53.6701,-2.949,Male,"Wed, 13 Dec 2017 19:53:09 -0800",413.6037026
+31686,158300277,FRANK,SMITH,frank_smith6@awssws.com,35,1,Crossens,England,GB,PR9,53.6701,-2.949,Male,"Wed, 13 Dec 2017 19:53:09 -0800",413.6037026
+31687,254246005,FRANK,MARTENS,frank_martens18@gmail.com,27,0,Crossens,England,GB,PR9,53.6701,-2.949,Male,"Thu, 01 Feb 2018 18:44:40 -0800",695.345004
+7831,254246005,FRANK,KRUEGER,fkrueger@gmail.com,46,0,Crossens,England,GB,PR9,53.6701,-2.949,Male,"Thu, 01 Feb 2018 18:44:40 -0800",695.345004
+16061,254246005,FRANK,BOYLE,frank_boyle10@wp.com,81,1,Crossens,England,GB,PR9,53.6701,-2.949,Male,"Thu, 01 Feb 2018 18:44:40 -0800",695.345004
+31690,743132293,MINH,GEIGER,minh_geiger19@microsoft.com,23,1,Crossens,England,GB,PR9,53.6701,-2.949,Male,"Wed, 23 Aug 2017 04:39:42 -0700",681.6897681
+3944,743132293,MINH,FAIRFIELD,minhfairfield@gmail.com,14,0,Crossens,England,GB,PR9,53.6701,-2.949,Male,"Wed, 23 Aug 2017 04:39:42 -0700",681.6897681
+16064,743132293,MINH,SANDERS,minh_sanders5@microsoft.com,88,0,Crossens,England,GB,PR9,53.6701,-2.949,Male,"Wed, 23 Aug 2017 04:39:42 -0700",681.6897681
+31695,479747211,DONALD,BUCHANAN,donald_buchanan3@wp.com,99,1,Crossens,England,GB,PR9,53.6701,-2.949,Male,"Tue, 28 Feb 2017 03:00:39 -0800",726.6233246
+16069,479747211,DONALD,EMBREY,donald_embrey12@microsoft.com,43,0,Crossens,England,GB,PR9,53.6701,-2.949,Male,"Tue, 28 Feb 2017 03:00:39 -0800",726.6233246
+965,479747211,DONALD,NEWBERRY,donaldnewberry@yahoo.com,16,0,Crossens,England,GB,PR9,53.6701,-2.949,Male,"Tue, 28 Feb 2017 03:00:39 -0800",726.6233246
+22966,724741278,PATRICIA,BEERY,patricia_beery5@microsoft.com,17,1,Crossens,England,GB,PR9,53.6701,-2.949,Female,"Mon, 02 Jul 2018 20:34:18 -0700",630.2592348
+38592,724741278,PATRICIA,JOHNSON,patricia_johnson16@wp.com,72,1,Crossens,England,GB,PR9,53.6701,-2.949,Female,"Mon, 02 Jul 2018 20:34:18 -0700",630.2592348
+11448,724741278,PATRICIA,CAMPOS,patriciacampos@gmail.com,42,0,Crossens,England,GB,PR9,53.6701,-2.949,Female,"Mon, 02 Jul 2018 20:34:18 -0700",630.2592348
+16067,530575279,ADAM,ZUEHLKE,adam_zuehlke2@microsoft.com,27,0,Crossens,England,GB,PR9,53.6701,-2.949,Male,"Fri, 03 Nov 2017 00:14:27 -0700",430.2511385
+31693,530575279,ADAM,MCGEE,adam_mcgee23@yahooo.com,32,0,Crossens,England,GB,PR9,53.6701,-2.949,Male,"Fri, 03 Nov 2017 00:14:27 -0700",430.2511385
+5548,530575279,ADAM,PETROSKY,apetrosky@gmail.com,12,0,Crossens,England,GB,PR9,53.6701,-2.949,Male,"Fri, 03 Nov 2017 00:14:27 -0700",430.2511385
+38588,449743831,GALINA,ARENT,galina_arent22@gmail.com,92,1,Crossens,England,GB,PR9,53.6701,-2.949,Female,"Sat, 11 Aug 2018 00:26:09 -0700",757.3277943
+12508,449743831,GALINA,KELLEY,gkelley@gmail.com,47,0,Crossens,England,GB,PR9,53.6701,-2.949,Female,"Sat, 11 Aug 2018 00:26:09 -0700",757.3277943
+22962,449743831,GALINA,JORDAN,galina_jordan4@microsoft.com,22,0,Crossens,England,GB,PR9,53.6701,-2.949,Female,"Sat, 11 Aug 2018 00:26:09 -0700",757.3277943
+16066,276949207,JOHN,WALSH,john_walsh15@zzzuuuppp.com,19,1,Crossens,England,GB,PR9,53.6701,-2.949,Male,"Thu, 11 May 2017 01:03:48 -0700",519.1543789
+2180,276949207,JOHN,FLOYD,johnfloyd@yahoo.com,23,0,Crossens,England,GB,PR9,53.6701,-2.949,Male,"Thu, 11 May 2017 01:03:48 -0700",519.1543789
+31692,276949207,JOHN,KOMAR,john_komar12@microsoft.com,56,0,Crossens,England,GB,PR9,53.6701,-2.949,Male,"Thu, 11 May 2017 01:03:48 -0700",519.1543789
+16068,568171751,RICHARD,SANTOS,richard_santos17@awssws.com,63,0,Crossens,England,GB,PR9,53.6701,-2.949,Male,"Tue, 10 Apr 2018 16:03:15 -0700",547.0427287
+9559,568171751,RICHARD,CUFF,richardcuff@gmail.com,49,0,Crossens,England,GB,PR9,53.6701,-2.949,Male,"Tue, 10 Apr 2018 16:03:15 -0700",547.0427287
+31694,568171751,RICHARD,BUSHMAN,richard_bushman16@awssws.com,46,0,Crossens,England,GB,PR9,53.6701,-2.949,Male,"Tue, 10 Apr 2018 16:03:15 -0700",547.0427287
+15924,808274154,SHANELL,CARPENTER,shanellcarpenter@gmail.com,62,0,Crossens,England,GB,PR9,53.6701,-2.949,Female,"Wed, 21 Nov 2018 18:38:41 -0800",475.943443
+22976,808274154,SHANELL,CALLIS,shanell_callis16@gmail.com,61,0,Crossens,England,GB,PR9,53.6701,-2.949,Female,"Wed, 21 Nov 2018 18:38:41 -0800",475.943443
+38602,808274154,SHANELL,KAPLAN,shanell_kaplan19@microsoft.com,60,0,Crossens,England,GB,PR9,53.6701,-2.949,Female,"Wed, 21 Nov 2018 18:38:41 -0800",475.943443
+14710,325528818,SILVIA,WRIGHT,silviawright@gmail.com,49,0,Crossens,England,GB,PR9,53.6701,-2.949,Female,"Thu, 18 Oct 2018 10:00:21 -0700",315.2788959
+22974,325528818,SILVIA,WOLF,silvia_wolf18@gmail.com,97,1,Crossens,England,GB,PR9,53.6701,-2.949,Female,"Thu, 18 Oct 2018 10:00:21 -0700",315.2788959
+38600,325528818,SILVIA,MORALES,silvia_morales5@wp.com,42,0,Crossens,England,GB,PR9,53.6701,-2.949,Female,"Thu, 18 Oct 2018 10:00:21 -0700",315.2788959
+31688,632517108,MITCHELL,GARDNER,mitchell_gardner21@microsoft.com,62,0,Crossens,England,GB,PR9,53.6701,-2.949,Male,"Fri, 09 Nov 2018 00:53:17 -0800",323.0030023
+16062,632517108,MITCHELL,CABRERA,mitchell_cabrera4@zzzuuuppp.com,83,1,Crossens,England,GB,PR9,53.6701,-2.949,Male,"Fri, 09 Nov 2018 00:53:17 -0800",323.0030023
+15473,632517108,MITCHELL,COOTS,mitchellcoots@gmail.com,27,0,Crossens,England,GB,PR9,53.6701,-2.949,Male,"Fri, 09 Nov 2018 00:53:17 -0800",323.0030023
+38596,230093818,JUDITH,PHAN,judith_phan3@yahooo.com,93,0,Crossens,England,GB,PR9,53.6701,-2.949,Female,"Sun, 04 Mar 2018 19:22:52 -0800",363.5423185
+8674,230093818,JUDITH,NORTH,jnorth@gmail.com,82,0,Crossens,England,GB,PR9,53.6701,-2.949,Female,"Sun, 04 Mar 2018 19:22:52 -0800",363.5423185
+22970,230093818,JUDITH,LOH,judith_loh22@wp.com,87,1,Crossens,England,GB,PR9,53.6701,-2.949,Female,"Sun, 04 Mar 2018 19:22:52 -0800",363.5423185
+7115,698966024,ELIZABETH,RANSOM,elizabeth.ransom@hotmail.com,46,0,Scarcliffe,England,GB,S44,53.216,-1.2794,Female,"Sat, 30 Dec 2017 00:32:39 -0800",361.9605481
+38610,698966024,ELIZABETH,SNELSON,elizabeth_snelson22@awssws.com,24,1,Scarcliffe,England,GB,S44,53.216,-1.2794,Female,"Sat, 30 Dec 2017 00:32:39 -0800",361.9605481
+22984,698966024,ELIZABETH,SMITH,elizabeth_smith3@zzzuuuppp.com,68,0,Scarcliffe,England,GB,S44,53.216,-1.2794,Female,"Sat, 30 Dec 2017 00:32:39 -0800",361.9605481
+31696,461871628,DANE,HAYDEN,dane_hayden2@awssws.com,74,0,Scarcliffe,England,GB,S44,53.216,-1.2794,Male,"Tue, 31 Oct 2017 21:29:48 -0700",675.3227228
+5468,461871628,DANE,ROBERTS,daneroberts@gmail.com,12,0,Scarcliffe,England,GB,S44,53.216,-1.2794,Male,"Tue, 31 Oct 2017 21:29:48 -0700",675.3227228
+16070,461871628,DANE,YOUNGBLOOD,dane_youngblood19@yahooo.com,30,1,Scarcliffe,England,GB,S44,53.216,-1.2794,Male,"Tue, 31 Oct 2017 21:29:48 -0700",675.3227228
+22986,764192548,NATALIE,BARNES,natalie_barnes23@gmail.com,49,1,Scarcliffe,England,GB,S44,53.216,-1.2794,Female,"Fri, 03 Nov 2017 06:32:58 -0700",753.3463741
+5561,764192548,NATALIE,ROBINSON,nrobinson@gmail.com,12,0,Scarcliffe,England,GB,S44,53.216,-1.2794,Female,"Fri, 03 Nov 2017 06:32:58 -0700",753.3463741
+38612,764192548,NATALIE,NELSON,natalie_nelson3@wp.com,88,1,Scarcliffe,England,GB,S44,53.216,-1.2794,Female,"Fri, 03 Nov 2017 06:32:58 -0700",753.3463741
+31702,844997959,PHILIP,BASSHAM,philip_bassham1@yahooo.com,21,1,Scarcliffe,England,GB,S44,53.216,-1.2794,Male,"Wed, 06 Dec 2017 04:48:37 -0800",695.8825568
+16076,844997959,PHILIP,VARGAS,philip_vargas7@awssws.com,45,1,Scarcliffe,England,GB,S44,53.216,-1.2794,Male,"Wed, 06 Dec 2017 04:48:37 -0800",695.8825568
+6443,844997959,PHILIP,LERMA,philiplerma@gmail.com,48,0,Scarcliffe,England,GB,S44,53.216,-1.2794,Male,"Wed, 06 Dec 2017 04:48:37 -0800",695.8825568
+16079,467703117,PAUL,EATON,paul_eaton1@yahooo.com,76,0,Scarcliffe,England,GB,S44,53.216,-1.2794,Male,"Wed, 04 Jul 2018 23:19:07 -0700",410.6029439
+31705,467703117,PAUL,TALBOTT,paul_talbott22@awssws.com,46,1,Scarcliffe,England,GB,S44,53.216,-1.2794,Male,"Wed, 04 Jul 2018 23:19:07 -0700",410.6029439
+11527,467703117,PAUL,GARCIA,paulgarcia@gmail.com,16,0,Scarcliffe,England,GB,S44,53.216,-1.2794,Male,"Wed, 04 Jul 2018 23:19:07 -0700",410.6029439
+11243,720179535,TIFFANY,AUCOIN,tiffanyaucoin@gmail.com,12,0,Scarcliffe,England,GB,S44,53.216,-1.2794,Female,"Thu, 21 Jun 2018 17:06:00 -0700",472.1177725
+38605,720179535,TIFFANY,STREET,tiffany_street6@awssws.com,52,0,Scarcliffe,England,GB,S44,53.216,-1.2794,Female,"Thu, 21 Jun 2018 17:06:00 -0700",472.1177725
+22979,720179535,TIFFANY,MCVEY,tiffany_mcvey4@wp.com,45,0,Scarcliffe,England,GB,S44,53.216,-1.2794,Female,"Thu, 21 Jun 2018 17:06:00 -0700",472.1177725
+16075,202115415,MICHAEL,KOCH,michael_koch4@yahooo.com,83,1,Scarcliffe,England,GB,S44,53.216,-1.2794,Male,"Wed, 18 Oct 2017 01:48:02 -0700",455.0051178
+5173,202115415,MICHAEL,RATLIFF,mratliff@yahoo.com,21,0,Scarcliffe,England,GB,S44,53.216,-1.2794,Male,"Wed, 18 Oct 2017 01:48:02 -0700",455.0051178
+31701,202115415,MICHAEL,HOPKINS,michael_hopkins5@zzzuuuppp.com,25,1,Scarcliffe,England,GB,S44,53.216,-1.2794,Male,"Wed, 18 Oct 2017 01:48:02 -0700",455.0051178
+4906,451789144,CALVIN,KING,calvinking@gmail.com,14,0,Scarcliffe,England,GB,S44,53.216,-1.2794,Male,"Fri, 06 Oct 2017 05:14:28 -0700",553.8479066
+16071,451789144,CALVIN,KUCERA,calvin_kucera11@yahooo.com,66,1,Scarcliffe,England,GB,S44,53.216,-1.2794,Male,"Fri, 06 Oct 2017 05:14:28 -0700",553.8479066
+31697,451789144,CALVIN,MORROW,calvin_morrow18@microsoft.com,80,1,Scarcliffe,England,GB,S44,53.216,-1.2794,Male,"Fri, 06 Oct 2017 05:14:28 -0700",553.8479066
+16073,363370080,ROBERT,JONES,robert_jones11@awssws.com,39,0,Scarcliffe,England,GB,S44,53.216,-1.2794,Male,"Fri, 24 Aug 2018 11:27:18 -0700",555.9260949
+12900,363370080,ROBERT,JACOBS,robertjacobs@yahoo.com,64,0,Scarcliffe,England,GB,S44,53.216,-1.2794,Male,"Fri, 24 Aug 2018 11:27:18 -0700",555.9260949
+31699,363370080,ROBERT,PETERSON,robert_peterson16@zzzuuuppp.com,47,0,Scarcliffe,England,GB,S44,53.216,-1.2794,Male,"Fri, 24 Aug 2018 11:27:18 -0700",555.9260949
+1804,346856295,TAMMY,BRINEGAR,tammybrinegar@gmail.com,59,0,Scarcliffe,England,GB,S44,53.216,-1.2794,Female,"Tue, 18 Apr 2017 12:30:33 -0700",357.3868906
+22981,346856295,TAMMY,SMITH,tammy_smith14@awssws.com,76,1,Scarcliffe,England,GB,S44,53.216,-1.2794,Female,"Tue, 18 Apr 2017 12:30:33 -0700",357.3868906
+38607,346856295,TAMMY,BARRON,tammy_barron17@wp.com,29,1,Scarcliffe,England,GB,S44,53.216,-1.2794,Female,"Tue, 18 Apr 2017 12:30:33 -0700",357.3868906
+14880,188085354,VANESSA,HILL,vanessahill@yahoo.com,12,0,Scarcliffe,England,GB,S44,53.216,-1.2794,Female,"Wed, 24 Oct 2018 16:10:44 -0700",652.3099718
+22991,188085354,VANESSA,BANKHEAD,vanessa_bankhead12@zzzuuuppp.com,47,1,Scarcliffe,England,GB,S44,53.216,-1.2794,Female,"Wed, 24 Oct 2018 16:10:44 -0700",652.3099718
+38617,188085354,VANESSA,LOPEZ,vanessa_lopez3@zzzuuuppp.com,71,0,Scarcliffe,England,GB,S44,53.216,-1.2794,Female,"Wed, 24 Oct 2018 16:10:44 -0700",652.3099718
+22982,895241080,NORMA,SWANSON,norma_swanson22@awssws.com,41,0,Scarcliffe,England,GB,S44,53.216,-1.2794,Female,"Tue, 23 Oct 2018 10:35:23 -0700",278.9618747
+38608,895241080,NORMA,WEIDLER,norma_weidler1@wp.com,96,0,Scarcliffe,England,GB,S44,53.216,-1.2794,Female,"Tue, 23 Oct 2018 10:35:23 -0700",278.9618747
+14858,895241080,NORMA,GATES,normagates@gmail.com,16,0,Scarcliffe,England,GB,S44,53.216,-1.2794,Female,"Tue, 23 Oct 2018 10:35:23 -0700",278.9618747
+13249,804364674,HAROLD,WILKS,haroldwilks@yahoo.com,42,0,Scarcliffe,England,GB,S44,53.216,-1.2794,Male,"Wed, 05 Sep 2018 10:24:23 -0700",390.8057909
+16072,804364674,HAROLD,HOLMAN,harold_holman8@gmail.com,64,0,Scarcliffe,England,GB,S44,53.216,-1.2794,Male,"Wed, 05 Sep 2018 10:24:23 -0700",390.8057909
+31698,804364674,HAROLD,DYKE,harold_dyke21@wp.com,94,1,Scarcliffe,England,GB,S44,53.216,-1.2794,Male,"Wed, 05 Sep 2018 10:24:23 -0700",390.8057909
+6456,313047707,EVELYN,KEATON,evelynkeaton@gmail.com,16,0,Scarcliffe,England,GB,S44,53.216,-1.2794,Female,"Wed, 06 Dec 2017 15:13:50 -0800",522.4041413
+38609,313047707,EVELYN,PETERSON,evelyn_peterson15@yahooo.com,74,1,Scarcliffe,England,GB,S44,53.216,-1.2794,Female,"Wed, 06 Dec 2017 15:13:50 -0800",522.4041413
+22983,313047707,EVELYN,ELIZONDO,evelyn_elizondo8@microsoft.com,17,0,Scarcliffe,England,GB,S44,53.216,-1.2794,Female,"Wed, 06 Dec 2017 15:13:50 -0800",522.4041413
+31703,288768673,DANIEL,PELKEY,daniel_pelkey4@yahooo.com,57,1,Scarcliffe,England,GB,S44,53.216,-1.2794,Male,"Tue, 20 Nov 2018 00:56:14 -0800",322.032032
+15863,288768673,DANIEL,CLOUD,danielcloud@yahoo.com,12,0,Scarcliffe,England,GB,S44,53.216,-1.2794,Male,"Tue, 20 Nov 2018 00:56:14 -0800",322.032032
+16077,288768673,DANIEL,RIVERA,daniel_rivera5@wp.com,37,1,Scarcliffe,England,GB,S44,53.216,-1.2794,Male,"Tue, 20 Nov 2018 00:56:14 -0800",322.032032
+22987,452611234,ELIZABETH,VEGA,elizabeth_vega12@microsoft.com,50,1,Scarcliffe,England,GB,S44,53.216,-1.2794,Female,"Fri, 28 Apr 2017 15:09:45 -0700",317.2788391
+1961,452611234,ELIZABETH,MCBRIDE,emcbride@gmail.com,30,0,Scarcliffe,England,GB,S44,53.216,-1.2794,Female,"Fri, 28 Apr 2017 15:09:45 -0700",317.2788391
+38613,452611234,ELIZABETH,WEST,elizabeth_west3@gmail.com,60,0,Scarcliffe,England,GB,S44,53.216,-1.2794,Female,"Fri, 28 Apr 2017 15:09:45 -0700",317.2788391
+22988,511156901,LORETTA,WALSH,loretta_walsh23@microsoft.com,65,0,Scarcliffe,England,GB,S44,53.216,-1.2794,Female,"Tue, 09 Jan 2018 10:54:57 -0800",702.261245
+38614,511156901,LORETTA,WILSON,loretta_wilson4@zzzuuuppp.com,36,1,Scarcliffe,England,GB,S44,53.216,-1.2794,Female,"Tue, 09 Jan 2018 10:54:57 -0800",702.261245
+7329,511156901,LORETTA,BARNETT,lbarnett@yahoo.com,101,0,Scarcliffe,England,GB,S44,53.216,-1.2794,Female,"Tue, 09 Jan 2018 10:54:57 -0800",702.261245
+16080,379941039,GILBERTO,TURNER,gilberto_turner11@gmail.com,44,1,Scarcliffe,England,GB,S44,53.216,-1.2794,Male,"Wed, 26 Sep 2018 19:00:28 -0700",610.6958491
+13978,379941039,GILBERTO,LUNSFORD,gilbertolunsford@yahoo.com,48,0,Scarcliffe,England,GB,S44,53.216,-1.2794,Male,"Wed, 26 Sep 2018 19:00:28 -0700",610.6958491
+31706,379941039,GILBERTO,GEARY,gilberto_geary4@microsoft.com,23,0,Scarcliffe,England,GB,S44,53.216,-1.2794,Male,"Wed, 26 Sep 2018 19:00:28 -0700",610.6958491
+3720,394204080,BRITNEY,REDD,britneyredd@gmail.com,36,0,Scarcliffe,England,GB,S44,53.216,-1.2794,Female,"Thu, 10 Aug 2017 21:30:44 -0700",538.9841569
+22990,394204080,BRITNEY,EDWARDS,britney_edwards22@gmail.com,58,0,Scarcliffe,England,GB,S44,53.216,-1.2794,Female,"Thu, 10 Aug 2017 21:30:44 -0700",538.9841569
+38616,394204080,BRITNEY,BROOME,britney_broome17@gmail.com,79,1,Scarcliffe,England,GB,S44,53.216,-1.2794,Female,"Thu, 10 Aug 2017 21:30:44 -0700",538.9841569
+3615,737443772,LINDA,SEERY,lindaseery@yahoo.com,49,0,Scarcliffe,England,GB,S44,53.216,-1.2794,Female,"Fri, 04 Aug 2017 21:19:05 -0700",381.819525
+22992,737443772,LINDA,ROBINSON,linda_robinson18@microsoft.com,98,0,Scarcliffe,England,GB,S44,53.216,-1.2794,Female,"Fri, 04 Aug 2017 21:19:05 -0700",381.819525
+38618,737443772,LINDA,DAVIS,linda_davis22@awssws.com,61,1,Scarcliffe,England,GB,S44,53.216,-1.2794,Female,"Fri, 04 Aug 2017 21:19:05 -0700",381.819525
+11658,743355326,CARL,CLAY,carl.clay@gmail.com,16,0,Scarcliffe,England,GB,S44,53.216,-1.2794,Male,"Mon, 09 Jul 2018 00:40:31 -0700",532.8925378
+31700,743355326,CARL,BAKER,carl_baker6@wp.com,16,0,Scarcliffe,England,GB,S44,53.216,-1.2794,Male,"Mon, 09 Jul 2018 00:40:31 -0700",532.8925378
+16074,743355326,CARL,DOSTER,carl_doster21@zzzuuuppp.com,40,0,Scarcliffe,England,GB,S44,53.216,-1.2794,Male,"Mon, 09 Jul 2018 00:40:31 -0700",532.8925378
+38615,703768276,MARIA,BRADFIELD,maria_bradfield17@gmail.com,98,1,Scarcliffe,England,GB,S44,53.216,-1.2794,Female,"Fri, 17 Nov 2017 16:45:36 -0800",425.3425227
+5926,703768276,MARIA,ISOM,mariaisom@gmail.com,62,0,Scarcliffe,England,GB,S44,53.216,-1.2794,Female,"Fri, 17 Nov 2017 16:45:36 -0800",425.3425227
+22989,703768276,MARIA,DIAZ,maria_diaz1@awssws.com,38,1,Scarcliffe,England,GB,S44,53.216,-1.2794,Female,"Fri, 17 Nov 2017 16:45:36 -0800",425.3425227
+228,478798038,ALFRED,STRAKER,astraker@aol.com,36,0,Scarcliffe,England,GB,S44,53.216,-1.2794,Male,"Tue, 17 Jan 2017 15:32:01 -0800",438.647226
+16078,478798038,ALFRED,BRADSHAW,alfred_bradshaw13@microsoft.com,69,1,Scarcliffe,England,GB,S44,53.216,-1.2794,Male,"Tue, 17 Jan 2017 15:32:01 -0800",438.647226
+31704,478798038,ALFRED,SWANK,alfred_swank14@zzzuuuppp.com,26,1,Scarcliffe,England,GB,S44,53.216,-1.2794,Male,"Tue, 17 Jan 2017 15:32:01 -0800",438.647226
+5286,129909726,ADA,BREWSTER,abrewster@gmail.com,74,0,Scarcliffe,England,GB,S44,53.216,-1.2794,Female,"Mon, 23 Oct 2017 16:33:31 -0700",319.0200812
+22985,129909726,ADA,BARBERA,ada_barbera22@wp.com,43,1,Scarcliffe,England,GB,S44,53.216,-1.2794,Female,"Mon, 23 Oct 2017 16:33:31 -0700",319.0200812
+38611,129909726,ADA,GONZALES,ada_gonzales3@microsoft.com,66,0,Scarcliffe,England,GB,S44,53.216,-1.2794,Female,"Mon, 23 Oct 2017 16:33:31 -0700",319.0200812
+22980,391609577,HAZEL,ALCORN,hazel_alcorn9@wp.com,45,1,Scarcliffe,England,GB,S44,53.216,-1.2794,Female,"Sat, 04 Aug 2018 11:48:55 -0700",388.5332879
+12305,391609577,HAZEL,HARRISON,hazelharrison@gmail.com,38,0,Scarcliffe,England,GB,S44,53.216,-1.2794,Female,"Sat, 04 Aug 2018 11:48:55 -0700",388.5332879
